@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# Dependencies
+node_modules/
+/dist
+
+# Local environment
+.env
+.env.local
+*.local
+
+# Build outputs
+/site/
+
+# Temporary files
+*.tmp
+*.temp

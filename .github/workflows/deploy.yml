@@ -1,0 +1,37 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Validate structure
+        run: |
+          echo "Checking required files..."
+          test -f index.html && echo "✓ index.html found" || echo "✗ index.html missing"
+          test -f _sidebar.md && echo "✓ _sidebar.md found" || echo "✗ _sidebar.md missing"
+          test -d content && echo "✓ content/ directory found" || echo "✗ content/ directory missing"
+          test -f .nojekyll && echo "✓ .nojekyll found" || echo "✗ .nojekyll missing"
+
+      - name: Deploy to GitHub Pages
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          cname: # Leave empty unless using a custom domain
+          allow_empty_commit: false
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'

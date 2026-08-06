@@ -1,0 +1,29 @@
+{
+  "name": "foucault-bibliography",
+  "version": "1.0.0",
+  "description": "Michel Foucault's Bibliography - A comprehensive, curated bibliography of Michel Foucault's primary works and secondary literature.",
+  "main": "index.html",
+  "scripts": {
+    "serve": "docsify serve .",
+    "dev": "docsify serve .",
+    "build": "echo 'Docsify is a static site generator - no build step needed!'"
+  },
+  "keywords": [
+    "foucault",
+    "bibliography",
+    "philosophy",
+    "knowledge",
+    "power",
+    "discourse",
+    "docsify"
+  ],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

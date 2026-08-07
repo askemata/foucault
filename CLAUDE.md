@@ -1,10 +1,38 @@
 # Claude Instructions for Foucault Bibliography Project
 
 ## ⚠️ IMPORTANT: Project Status (as of 2026-08-06)
-- **Status:** ✅ FUNCTIONAL at commit 4849b45
 - **Site:** https://askemata.github.io/foucault/
-- **6 works published and working**
-- **DO NOT change GitHub Pages configuration**
+- **10 obras primárias em /content**
+
+### Como o site é publicado
+GitHub Pages serve **diretamente o branch `main`, na raiz** (Settings → Pages
+→ Source: "Deploy from a branch" → `main` / `(root)`).
+
+Não há workflow de build. O site é Docsify puro: os `.md` são carregados pelo
+navegador em tempo de execução. Todo push em `main` publica automaticamente,
+em cerca de 1 minuto.
+
+- `.nojekyll` (arquivo vazio, na raiz) impede o GitHub de processar o site com
+  Jekyll. **Não apagar.**
+- `README.md` é a home page do Docsify. **Não apagar nem renomear** — sem ele
+  a página inicial fica em branco.
+- `_config.yml` é resquício do Jekyll e está inerte.
+
+### Histórico: por que os workflows foram removidos (2026-08-06)
+Existiam dois workflows (`publish.yml` e `deploy.yml`) que empurravam o site
+para um branch `gh-pages` via `peaceiris/actions-gh-pages`. Isso quebrou a
+publicação por ~5 horas:
+- `publish.yml` falhava sempre (`cp -r . build/` copiava o diretório dentro de
+  si mesmo);
+- `deploy.yml` falhava por falta de `permissions: contents: write`;
+- depois de corrigido, `deploy.yml` passou a atualizar `gh-pages` com sucesso,
+  mas pushes feitos com `GITHUB_TOKEN` não disparam o build do Pages — o
+  conteúdo chegava ao branch e nunca era publicado.
+
+O site ficou congelado no commit `ca87b19` enquanto 4 obras novas eram
+adicionadas sem aparecer. Ambos os workflows foram apagados e o Pages voltou a
+servir `main` diretamente. **Não reintroduzir workflow de deploy** — este site
+não precisa de build.
 
 ## How to Continue
 If context ends, load this file and the memory at:

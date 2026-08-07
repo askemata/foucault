@@ -57,6 +57,55 @@ url: "https://..."
 
 Ao acrescentar uma ficha, é preciso atualizar também a página-índice correspondente (`primary.md` ou `secondary.md`) e o [índice de palavras-chave](/keywords.md). A barra lateral não precisa ser tocada: ela se desdobra sozinha a partir dos cabeçalhos de ano dessas páginas.
 
+## Recursos de formatação disponíveis
+
+Além do Markdown comum, o tema oferece as caixas de destaque do Sphinx. Escreva
+o HTML direto no `.md`:
+
+```html
+<div class="admonition note"><p class="admonition-title">Nota</p>
+Texto da observação.
+</div>
+```
+
+Trocando a segunda classe muda a cor e o propósito: `note` e `seealso` (azul),
+`tip` e `hint` (verde), `important`, `warning` e `caution` (laranja), `danger` e
+`error` (vermelho). O título dentro do `<p class="admonition-title">` é livre —
+escreva "Nota", "Atenção", "Ver também", o que couber.
+
+<div class="admonition note"><p class="admonition-title">Nota</p>
+Assim fica uma caixa de observação. Use com parcimônia: numa bibliografia, o
+destaque perde força se aparecer em toda ficha.
+</div>
+
+<div class="admonition warning"><p class="admonition-title">Atenção</p>
+E assim fica um aviso, para ressalvas sobre edições, atribuições duvidosas ou
+traduções problemáticas.
+</div>
+
+O Docsify também tem dois atalhos, que produzem caixas mais simples, com barra
+lateral colorida em vez de faixa de título: uma linha começando com `?>` vira
+uma observação, e com `!>` vira um aviso.
+
+Tabelas, blocos de código, citações e listas seguem o Markdown padrão e já estão
+estilizados no tema.
+
+## Aparência
+
+O site usa o [sphinx_rtd_theme](https://sphinx-rtd-theme.readthedocs.io) como
+referência visual: barra lateral escura, conteúdo em coluna de 800px, títulos em
+Roboto Slab e corpo em Lato. As fontes vêm do mesmo CDN que serve o Docsify.
+
+Há um botão no canto superior direito para alternar entre claro e escuro. Sem
+escolha explícita, o site segue a preferência do sistema operacional; ao clicar,
+a preferência fica salva no navegador. O tema escuro não existe no Read the Docs
+original — foi desenhado para este site, preservando o contraste e a hierarquia
+do original.
+
+Todo o visual está em `theme.css`. As cores ficam concentradas em duas listas de
+variáveis no topo do arquivo, uma para cada modo; mexer nelas muda o site inteiro
+sem tocar em nenhuma regra.
+
 ## Metadados de citação
 
 Cada ficha expõe seus dados por dois caminhos:

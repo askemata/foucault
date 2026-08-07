@@ -1,0 +1,415 @@
+/* ==========================================================================
+   Tema Read the Docs (sphinx_rtd_theme) para Docsify
+   Paleta clara nas cores originais do tema. A paleta escura não existe no
+   RTD original: foi desenhada aqui, preservando contraste e hierarquia.
+   ========================================================================== */
+
+/* --------------------------------------------------------------- claro -- */
+:root {
+  --sidebar-bg: #343131;
+  --sidebar-header-bg: #2980b9;
+  --sidebar-header-text: #fcfcfc;
+  --sidebar-text: #d9d9d9;
+  --sidebar-hover-bg: #4e4a4a;
+  --sidebar-current-bg: #fcfcfc;
+  --sidebar-current-text: #404040;
+  --sidebar-caption: #55a5d9;
+  --search-bg: #2b2828;
+  --search-text: #e6e6e6;
+  --search-border: #565252;
+
+  --content-bg: #fcfcfc;
+  --text: #404040;
+  --heading: #404040;
+  --muted: #6b6b6b;
+  --border: #e1e4e5;
+
+  --link: #2980b9;
+  --link-hover: #3091d1;
+  --link-visited: #9b59b6;
+
+  --code-text: #e74c3c;
+  --code-bg: #ffffff;
+  --code-border: #e1e4e5;
+  --pre-bg: #f8f8f8;
+  --pre-text: #404040;
+
+  --table-stripe: #f3f6f6;
+  --table-head-border: #404040;
+
+  --note-title: #6ab0de;
+  --note-bg: #e7f2fa;
+  --warn-title: #f0b37e;
+  --warn-bg: #ffedcc;
+  --danger-title: #f29f97;
+  --danger-bg: #fdf3f2;
+  --tip-title: #1abc9c;
+  --tip-bg: #dbfaf4;
+  --admonition-text: #404040;
+  --admonition-title-text: #ffffff;
+
+  --font-body: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-heading: 'Roboto Slab', Georgia, 'Times New Roman', serif;
+  --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  --sidebar-w: 300px;
+}
+
+/* -------------------------------------------------------------- escuro -- */
+/* Bloco reutilizado pelas duas formas de ativar o modo escuro:
+   preferência do sistema e escolha explícita no botão.                     */
+:root[data-theme="dark"] {
+  --sidebar-bg: #131516;
+  --sidebar-header-bg: #1f5f8b;
+  --sidebar-header-text: #f2f4f5;
+  --sidebar-text: #b8bcbe;
+  --sidebar-hover-bg: #26292b;
+  --sidebar-current-bg: #2b2f31;
+  --sidebar-current-text: #ffffff;
+  --sidebar-caption: #6cb6e6;
+  --search-bg: #0d0f10;
+  --search-text: #d6d9da;
+  --search-border: #35393b;
+
+  --content-bg: #1a1c1d;
+  --text: #c9ccce;
+  --heading: #e6e8ea;
+  --muted: #8f9497;
+  --border: #34383a;
+
+  --link: #4fa3d9;
+  --link-hover: #6fbcec;
+  --link-visited: #b07fd4;
+
+  --code-text: #ff8a80;
+  --code-bg: #232628;
+  --code-border: #34383a;
+  --pre-bg: #202325;
+  --pre-text: #c9ccce;
+
+  --table-stripe: #202325;
+  --table-head-border: #6f7477;
+
+  --note-title: #1f5f86;
+  --note-bg: #12262f;
+  --warn-title: #8a5a2b;
+  --warn-bg: #2e2317;
+  --danger-title: #8c3b34;
+  --danger-bg: #2b1a18;
+  --tip-title: #14806a;
+  --tip-bg: #102a25;
+  --admonition-text: #d3d6d8;
+  --admonition-title-text: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --sidebar-bg: #131516;
+    --sidebar-header-bg: #1f5f8b;
+    --sidebar-header-text: #f2f4f5;
+    --sidebar-text: #b8bcbe;
+    --sidebar-hover-bg: #26292b;
+    --sidebar-current-bg: #2b2f31;
+    --sidebar-current-text: #ffffff;
+    --sidebar-caption: #6cb6e6;
+    --search-bg: #0d0f10;
+    --search-text: #d6d9da;
+    --search-border: #35393b;
+
+    --content-bg: #1a1c1d;
+    --text: #c9ccce;
+    --heading: #e6e8ea;
+    --muted: #8f9497;
+    --border: #34383a;
+
+    --link: #4fa3d9;
+    --link-hover: #6fbcec;
+    --link-visited: #b07fd4;
+
+    --code-text: #ff8a80;
+    --code-bg: #232628;
+    --code-border: #34383a;
+    --pre-bg: #202325;
+    --pre-text: #c9ccce;
+
+    --table-stripe: #202325;
+    --table-head-border: #6f7477;
+
+    --note-title: #1f5f86;
+    --note-bg: #12262f;
+    --warn-title: #8a5a2b;
+    --warn-bg: #2e2317;
+    --danger-title: #8c3b34;
+    --danger-bg: #2b1a18;
+    --tip-title: #14806a;
+    --tip-bg: #102a25;
+    --admonition-text: #d3d6d8;
+    --admonition-title-text: #ffffff;
+}
+}
+
+/* ==========================================================================
+   As cores acima são traduzidas para a API do docsify-themeable.
+   Ele é carregado do CDN e não pode ser sobrescrito por especificidade de
+   forma confiável — a via oficial de customização são estas variáveis.
+   ========================================================================== */
+:root {
+  /* --- base ------------------------------------------------------------ */
+  --base-font-family: var(--font-body);
+  --base-font-size: 16px;
+  --base-line-height: 1.65;
+  --base-color: var(--text);
+  --base-background-color: var(--content-bg);
+  --content-max-width: 800px;
+
+  /* --- links ----------------------------------------------------------- */
+  --link-color: var(--link);
+  --link-color--hover: var(--link-hover);
+
+  /* --- títulos --------------------------------------------------------- */
+  --heading-font-family: var(--font-heading);
+  --heading-font-weight: 700;
+  --heading-color: var(--heading);
+  --heading-h1-font-family: var(--font-heading);
+  --heading-h1-font-size: 1.9rem;
+  --heading-h1-color: var(--heading);
+  --heading-h1-border-color: var(--border);
+  --heading-h1-border-style: solid;
+  --heading-h1-border-width: 0 0 1px 0;
+  --heading-h2-font-family: var(--font-heading);
+  --heading-h2-font-size: 1.45rem;
+  --heading-h2-color: var(--heading);
+  --heading-h2-border-color: var(--border);
+  --heading-h2-border-style: solid;
+  --heading-h2-border-width: 0 0 1px 0;
+  --heading-h3-font-size: 1.2rem;
+
+  /* --- barra lateral --------------------------------------------------- */
+  --sidebar-background: var(--sidebar-bg);
+  --sidebar-width: 300px;
+  --sidebar-border-width: 0;
+  --sidebar-padding: 0;
+  --sidebar-nav-background: var(--sidebar-bg);
+  --sidebar-nav-margin: 0;
+  --sidebar-nav-padding: 0.5rem 0 2rem;
+  --sidebar-nav-indent: 1rem;
+
+  --sidebar-nav-link-color: var(--sidebar-text);
+  --sidebar-nav-link-color--hover: #ffffff;
+  --sidebar-nav-link-color--active: var(--sidebar-current-text);
+  --sidebar-nav-link-background: transparent;
+  --sidebar-nav-link-background--hover: var(--sidebar-hover-bg);
+  --sidebar-nav-link-background--active: var(--sidebar-current-bg);
+  /* links de pagina (com submenu) usam uma variavel propria, que vence a de cima */
+  --sidebar-nav-pagelink-background: transparent;
+  --sidebar-nav-pagelink-background--active: var(--sidebar-current-bg);
+  --sidebar-nav-pagelink-background--loaded: var(--sidebar-current-bg);
+  --sidebar-nav-link-font-weight--active: 700;
+  --sidebar-nav-link-padding: 0.5rem 1.25rem;
+  --sidebar-nav-link-margin: 0;
+  --sidebar-nav-link-border-width: 0;
+  --sidebar-nav-link-border-width--active: 0;
+  --sidebar-nav-link-border-width--hover: 0;
+  --sidebar-nav-link-text-decoration: none;
+  --sidebar-nav-link-text-decoration--hover: none;
+  --sidebar-nav-link-text-decoration--active: none;
+  --sidebar-nav-link-before-content: none;
+  --sidebar-nav-link-before-content--active: none;
+  --sidebar-nav-strong-color: var(--sidebar-caption);
+  --sidebar-nav-strong-border-color: var(--sidebar-hover-bg);
+
+  --sidebar-toggle-background: var(--sidebar-bg);
+  --sidebar-toggle-icon-color: var(--sidebar-text);
+
+  /* --- busca ----------------------------------------------------------- */
+  --search-background: var(--sidebar-bg);
+  --search-input-background-color: var(--search-bg);
+  --search-input-border-color: var(--search-border);
+  --search-input-color: var(--search-text);
+  --search-input-placeholder-color: #9a9a9a;
+  --search-result-heading-color: var(--sidebar-caption);
+  --search-result-item-color: var(--sidebar-text);
+  --search-result-keyword-background: var(--sidebar-hover-bg);
+  --search-result-keyword-color: #ffffff;
+
+  /* --- código ---------------------------------------------------------- */
+  --code-font-family: var(--font-mono);
+  --code-font-size: 0.85em;
+  --code-inline-color: var(--code-text);
+  --code-inline-background: var(--code-bg);
+  --code-inline-border-radius: 3px;
+  --code-theme-background: var(--pre-bg);
+  --code-theme-text: var(--pre-text);
+  --code-block-border-radius: 0;
+
+  /* --- citações -------------------------------------------------------- */
+  --blockquote-background: transparent;
+  --blockquote-color: var(--muted);
+  --blockquote-border-color: var(--border);
+  --blockquote-border-style: solid;
+  --blockquote-border-width: 0 0 0 5px;
+  --blockquote-border-radius: 0;
+  --blockquote-font-style: normal;
+  --blockquote-font-family: var(--font-body);
+  --blockquote-em-font-style: italic;
+
+  /* --- tabelas --------------------------------------------------------- */
+  --table-cell-border-color: var(--border);
+  --table-cell-padding: 0.55rem 0.8rem;
+  --table-head-border-color: var(--table-head-border);
+  --table-head-border-width: 0 0 2px 0;
+  --table-head-font-weight: 700;
+  --table-row-odd-background: var(--table-stripe);
+  --table-row-even-background: transparent;
+
+  /* --- avisos nativos do Docsify: "?>" e "!>" -------------------------- */
+  --notice-border-radius: 0;
+  --notice-padding: 0.7rem 0.9rem;
+  --notice-font-family: var(--font-body);
+  --notice-tip-background: var(--note-bg);
+  --notice-tip-color: var(--admonition-text);
+  --notice-tip-border-color: var(--note-title);
+  --notice-tip-border-style: solid;
+  --notice-tip-border-width: 0 0 0 5px;
+  --notice-important-background: var(--warn-bg);
+  --notice-important-color: var(--admonition-text);
+  --notice-important-border-color: var(--warn-title);
+  --notice-important-border-style: solid;
+  --notice-important-border-width: 0 0 0 5px;
+}
+
+/* ==========================================================================
+   O que o docsify-themeable não cobre
+   ========================================================================== */
+
+/* --- faixa azul do RTD no topo da barra lateral ------------------------- */
+.sidebar > h1 {
+  margin: 0;
+  padding: 1rem 1.25rem;
+  background: var(--sidebar-header-bg);
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.sidebar > h1 a,
+.sidebar > h1 a:hover {
+  color: var(--sidebar-header-text);
+  text-decoration: none;
+}
+
+/* separador entre as seções de primeiro nível */
+.sidebar-nav > ul > li > a { border-bottom: 1px solid rgba(255, 255, 255, 0.06); }
+
+/* os anos e as letras, gerados pelo subMaxLevel.
+   O Docsify monta esse submenu como <ul class="app-sub-sidebar"> com links
+   .section-link; o recuo precisa ser declarado aqui porque o
+   --sidebar-nav-indent do themeable não alcança este nível. */
+.sidebar-nav .app-sub-sidebar { background: rgba(0, 0, 0, 0.18); }
+
+.sidebar-nav .app-sub-sidebar li > a.section-link[href*="?id="] {
+  padding-left: 2.4rem;
+  font-size: 0.88rem;
+}
+
+/* --- admonições no estilo Sphinx ---------------------------------------
+   Uso dentro de um .md:
+     <div class="admonition note"><p class="admonition-title">Nota</p>
+     Texto da nota.
+     </div>
+   Tipos: note, seealso, tip, hint, important, warning, caution, danger, error.
+   ----------------------------------------------------------------------- */
+.markdown-section .admonition {
+  margin: 0 0 1.3rem;
+  padding: 0;
+  border: none;
+  background: var(--note-bg);
+  color: var(--admonition-text);
+  overflow: hidden;
+}
+
+.markdown-section .admonition > * { padding-left: 0.9rem; padding-right: 0.9rem; }
+.markdown-section .admonition > :not(.admonition-title):first-child { padding-top: 0.7rem; }
+.markdown-section .admonition > :last-child { padding-bottom: 0.7rem; margin-bottom: 0; }
+
+.markdown-section .admonition-title {
+  margin: 0;
+  padding: 0.35rem 0.9rem;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--admonition-title-text);
+  background: var(--note-title);
+}
+
+.markdown-section .admonition.tip,
+.markdown-section .admonition.hint { background: var(--tip-bg); }
+.markdown-section .admonition.tip > .admonition-title,
+.markdown-section .admonition.hint > .admonition-title { background: var(--tip-title); }
+
+.markdown-section .admonition.warning,
+.markdown-section .admonition.caution,
+.markdown-section .admonition.important { background: var(--warn-bg); }
+.markdown-section .admonition.warning > .admonition-title,
+.markdown-section .admonition.caution > .admonition-title,
+.markdown-section .admonition.important > .admonition-title { background: var(--warn-title); }
+
+.markdown-section .admonition.danger,
+.markdown-section .admonition.error { background: var(--danger-bg); }
+.markdown-section .admonition.danger > .admonition-title,
+.markdown-section .admonition.error > .admonition-title { background: var(--danger-title); }
+
+/* --- botão de exportação ------------------------------------------------ */
+.export-button {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--link);
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  transition: background 0.15s ease;
+}
+
+.export-button:hover { background: var(--link-hover); }
+
+/* --- alternador claro/escuro -------------------------------------------- */
+.alternador-tema {
+  position: fixed;
+  top: 0.9rem;
+  right: 1.1rem;
+  z-index: 30;
+  width: 2.2rem;
+  height: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  background: var(--content-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  transition: border-color 0.15s ease;
+}
+
+.alternador-tema:hover { border-color: var(--link); }
+.alternador-tema:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+
+/* --- celular e impressão ------------------------------------------------ */
+@media screen and (max-width: 768px) {
+  :root { --content-padding: 1.5rem 1.25rem 3rem; }
+  .alternador-tema { top: auto; bottom: 1rem; right: 1rem; }
+  .markdown-section { padding: 1.5rem 1.25rem 3rem; }
+  .markdown-section table { display: block; overflow-x: auto; }
+}
+
+@media print {
+  .sidebar, .sidebar-toggle, .alternador-tema, .export-button { display: none !important; }
+  .markdown-section { max-width: none; padding: 0; }
+}

@@ -1,6 +1,16 @@
 # Claude Instructions for Foucault Bibliography Project
 
-<!-- Paste project-specific instructions here -->
+## ⚠️ IMPORTANT: Project Status (as of 2026-08-06)
+- **Status:** ✅ FUNCTIONAL at commit 4849b45
+- **Site:** https://askemata.github.io/foucault/
+- **6 works published and working**
+- **DO NOT change GitHub Pages configuration**
+
+## How to Continue
+If context ends, load this file and the memory at:
+`/home/marcio/.claude/projects/-home-marcio-Dropbox-DropsyncFiles-Blog-Foucault/memory/project_state.md`
+
+Then follow the workflow below.
 
 # Projeto: Michel Foucault's Bibliography
 

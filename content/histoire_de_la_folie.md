@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/474344150"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Histoire de la folie à l'âge classique*. Paris: Plon, 1961. 656 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *Madness and Civilization: A History of Insanity in the Age of Reason*. Translated by Richard Howard. New York: Pantheon Books, 1965.
 
 ## Resumo
@@ -24,4 +24,4 @@ The book's central claim challenges psychiatric orthodoxy: the asylum was not bu
 
 The study extends beyond institutional history to explore the philosophical and artistic dimensions of madness. Through analysis of literature, painting, and medical texts, Foucault shows how madness became silenced—stripped of the transgressive voice it possessed in Renaissance culture and relegated to the status of mere pathology to be observed, categorized, and treated by medical science.
 
-**Palavras-chave:** #confinement #madness #psychiatry #history-of-medicine #foucault-primaria #biopolitics #social-order #renaissance #classical-age #institution
+**Palavras-chave:** #enclausuramento #loucura #psiquiatria #historia-da-medicina #foucault-primaria #biopolitica #ordem-social #renascimento #idade-classica #instituicao

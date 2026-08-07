@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/906814206"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Histoire de la sexualité, Tome 1: La Volonté de savoir*. Paris: Gallimard, 1976. 211 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *The History of Sexuality, Volume 1: An Introduction*. Translated by Robert Hurley. New York: Pantheon Books, 1978.
 
 ## Resumo
@@ -24,4 +24,4 @@ Foucault traces how sexuality became a focus of power through medical and scient
 
 Crucially, Foucault identifies sexuality as produced through power-knowledge: knowledge about sexuality is simultaneously a technique of power for governing populations and individuals. Sexuality becomes biopolitical—a target of public health concerns, demographic policy, and moral regulation. Yet Foucault also identifies the possibility of counter-conduct: resistance to sexual normalization through affirmation of alternative sexualities and rejection of the psychiatric categories medicalizing non-normative desire.
 
-**Palavras-chave:** #sexuality #power-knowledge #repression #confession #medicalization #discourse #biopolitics #homosexuality #norm #deviance #foucault-primaria #will-to-knowledge #genealogy #modernity #liberation #desire
+**Palavras-chave:** #sexualidade #saber-poder #repressao #confissao #medicalizacao #discurso #biopolitica #homossexualidade #norma #desvio #foucault-primaria #vontade-de-saber #genealogia #modernidade #libertacao #desejo

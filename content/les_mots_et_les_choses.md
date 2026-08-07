@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/924969851"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Les Mots et les Choses: Une archéologie des sciences humaines*. Paris: Gallimard, 1966. 405 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *The Order of Things: An Archaeology of the Human Sciences*. Translated by Alan Sheridan. New York: Pantheon Books, 1970.
 
 ## Resumo
@@ -24,4 +24,4 @@ The book's famous opening analysis of Diego Velázquez's painting *Las Meninas* 
 
 The work also introduces Foucault's archaeological method: rather than seek origins or track influence, archaeology excavates the rules and structures that enable certain statements to be made and others to be excluded. This approach challenges both traditional history of ideas and structuralist interpretation, opening new possibilities for understanding how knowledge is historically contingent yet remarkably stable within particular periods.
 
-**Palavras-chave:** #episteme #archaeology-of-knowledge #representation #order #taxonomy #Renaissance #Classical #modernity #man #human-sciences #foucault-primaria #knowledge #truth #discontinuity
+**Palavras-chave:** #episteme #arqueologia-do-saber #representacao #ordem #taxonomia #renascimento #idade-classica #modernidade #homem #ciencias-humanas #foucault-primaria #saber #verdade #descontinuidade

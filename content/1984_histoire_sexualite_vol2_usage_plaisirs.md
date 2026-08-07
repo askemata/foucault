@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/906814402"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Histoire de la sexualité, Tome 2: L'Usage des plaisirs*. Paris: Gallimard, 1984. 279 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *The History of Sexuality, Volume 2: The Use of Pleasure*. Translated by Robert Hurley. New York: Pantheon Books, 1985.
 
 ## Resumo
@@ -22,4 +22,4 @@ Foucault demonstra que os gregos não tinham uma categoria unificada de "sexuali
 
 Este volume é decisivo para a genealogia de Foucault da subjetividade moderna. Ele mostra que práticas de si não desaparecem com o cristianismo e a modernidade, mas mudam de forma. *L'Usage des plaisirs* estabelece as bases para entender como diferentes épocas históricas constituem sujeitos sexuais de modos radicalmente distintos, abrindo espaço para imaginar práticas éticas alternativas de lidar com o prazer e a sexualidade além das molduras médicas e psicológicas contemporâneas.
 
-**Palavras-chave:** #sexuality #ethics #ancient-greece #pleasure #self-care #temperance #subjectivity #genealogy #history-of-ethics #foucault-primaria #technologies-of-self #morality #governmentality
+**Palavras-chave:** #sexualidade #etica #grecia-antiga #prazer #cuidado-de-si #temperanca #subjetividade #genealogia #historia-da-etica #foucault-primaria #tecnologias-de-si #moral #governamentalidade

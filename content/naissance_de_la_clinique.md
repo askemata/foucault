@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/797853914"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Naissance de la clinique: Une archéologie du regard médical*. Paris: Presses Universitaires de France, 1963. 227 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *The Birth of the Clinic: An Archaeology of Medical Perception*. Translated by A. M. Sheridan Smith. New York: Pantheon Books, 1973.
 
 ## Resumo
@@ -24,4 +24,4 @@ Foucault demonstrates this transformation through careful analysis of medical te
 
 Importantly, Foucault argues that this transformation in medicine parallels broader changes in institutional organization and social structure. The clinic emerged alongside other disciplinary institutions and new forms of power targeting populations. Medical knowledge and modern biopolitics develop together, making medicine integral to how modern societies manage and regulate populations.
 
-**Palavras-chave:** #medicine #medical-gaze #clinic #pathology #anatomy #observation #knowledge #history-of-medicine #foucault-primaria #disease #body #taxonomy #visibility #institutionalization
+**Palavras-chave:** #medicina #olhar-medico #clinica #patologia #anatomia #observacao #saber #historia-da-medicina #foucault-primaria #doenca #corpo #taxonomia #visibilidade #institucionalizacao

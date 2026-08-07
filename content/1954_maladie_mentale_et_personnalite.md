@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/500268747"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Maladie mentale et personnalité*. Paris: Presses Universitaires de France, 1954. 102 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *Mental Illness and Psychology*. Translated by Alan Sheridan. Berkeley: University of California Press, 1976.
 
 ## Resumo
@@ -22,4 +22,4 @@ A obra refuta a noção comum de que a doença mental é uma entidade fixa e uni
 
 A obra estabelece temas que permeiam toda a carreira de Foucault: a crítica da medicalização, a historicidade de categorias que parecem naturais, e a conexão entre conhecimento e poder. Embora posteriormente Foucault revisasse alguns argumentos desta obra (particularmente sua confiança na personalidade como categoria explicativa), *Maladie mentale et personnalité* permanece importante como introdução a seu pensamento sobre como a sociedade constitui subjetividades através de práticas de normalização e classificação.
 
-**Palavras-chave:** #mental-illness #psychology #personality #normalization #history-of-psychiatry #society #existentialism #foucault-primaria #pathology #subjectivity
+**Palavras-chave:** #doenca-mental #psicologia #personalidade #normalizacao #historia-da-psiquiatria #sociedade #existencialismo #foucault-primaria #patologia #subjetividade

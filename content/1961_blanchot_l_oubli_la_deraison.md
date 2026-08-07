@@ -11,7 +11,7 @@ url: "https://www.gallimard.fr/catalogue/l-entretien-infini/9782070268269"
 **Referência ABNT completa:**
 BLANCHOT, Maurice. L'oubli, la déraison. *La Nouvelle Revue française*, Paris, n. 106, p. 676-686, out. 1961. Republicado em: BLANCHOT, Maurice. *L'Entretien infini*. Paris: Gallimard, 1969. p. 289-299.
 
-**English translation:**
+**Tradução para o inglês:**
 BLANCHOT, Maurice. Forgetting, Unreason. In: *The Infinite Conversation*. Translated by Susan Hanson. Minneapolis: University of Minnesota Press, 1993.
 
 ## Resumo
@@ -24,4 +24,4 @@ Daí decorre a dificuldade que o ensaio expõe com mais clareza que qualquer out
 
 A importância deste ensaio na fortuna crítica está em ter formulado, dois anos antes de Jacques Derrida, a objeção que se tornaria o centro da polêmica sobre a *Histoire de la folie* — mas formulando-a como paradoxo a ser habitado, e não como aporia que condena o projeto. Quando Derrida retomar o problema em 1963, e quando Foucault responder em 1972, ambos estarão argumentando dentro de um terreno que Blanchot havia demarcado. O texto também estabelece uma linhagem duradoura de leitura de Foucault pelo lado da literatura e do silêncio, e não pelo lado da história das instituições.
 
-**Palavras-chave:** #madness #literature #silence #reason-unreason #language #reception #foucault-secundaria
+**Palavras-chave:** #loucura #literatura #silencio #razao-desrazao #linguagem #recepcao #foucault-secundaria

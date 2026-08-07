@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/906768847"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *L'Archéologie du savoir*. Paris: Gallimard, 1969. 275 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *The Archaeology of Knowledge*. Translated by A. M. Sheridan Smith. New York: Pantheon Books, 1972.
 
 ## Resumo
@@ -24,4 +24,4 @@ The work rejects teleology—the notion that knowledge progresses toward truth. 
 
 Foucault also addresses how knowledge relates to power. Discourse is not simply representation; discourses are "practices that systematically form the objects of which they speak." What can be said, what counts as knowledge, and who is authorized to speak are all regulated by power. Archaeology thus reveals how knowledge and power are inseparable—the production of knowledge always involves power relations, and power always operates through knowledge.
 
-**Palavras-chave:** #archaeology #method #statement #discourse #archive #history-of-ideas #episteme #rules-of-formation #power-knowledge #truth #foucault-primaria #discontinuity #history #methodology
+**Palavras-chave:** #arqueologia #metodo #enunciado #discurso #arquivo #historia-das-ideias #episteme #regras-de-formacao #saber-poder #verdade #foucault-primaria #descontinuidade #historia

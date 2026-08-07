@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/906814404"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Histoire de la sexualité, Tome 3: Le Souci de soi*. Paris: Gallimard, 1984. 284 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *The History of Sexuality, Volume 3: The Care of the Self*. Translated by Robert Hurley. New York: Pantheon Books, 1986.
 
 ## Resumo
@@ -22,4 +22,4 @@ A obra mapeia o surgimento de práticas sofisticadas de autoanálise e vigilânc
 
 Este volume é essencial para compreender a transição histórica que Foucault traça: de uma sexualidade governada por convenções sociais (Volume 2) para uma sexualidade cada vez mais sujeita à autogovernanço através de práticas de reflexão e transformação de si. O livro estabelece também o cenário para o que o cristianismo virá a fazer com essas práticas de si. *Le Souci de soi* oferece a perspectiva histórica para entender como nós mesmos somos produzidos como sujeitos através de práticas específicas de autoexame e autotransformação, abrindo possibilidades para pensar a genealogia de nossa experiência contemporânea da subjetividade.
 
-**Palavras-chave:** #sexuality #self-care #stoicism #ancient-rome #subjectivity #ethics #reflection #governmentality #practices-of-self #foucault-primaria #genealogy #technologies-of-self #conscience
+**Palavras-chave:** #sexualidade #cuidado-de-si #estoicismo #roma-antiga #subjetividade #etica #reflexao #governamentalidade #praticas-de-si #foucault-primaria #genealogia #tecnologias-de-si #consciencia

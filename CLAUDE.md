@@ -45,6 +45,11 @@ Then follow the workflow below.
 Site estático (Docsify) que documenta cronologicamente as obras de Michel
 Foucault e a fortuna crítica sobre ele, de 1954 até hoje.
 
+## Idioma
+O site é inteiramente em português: resumos, descrições, glosas, textos de
+interface e tags. Só o título do site permanece em inglês. Títulos de obras
+ficam na língua original.
+
 ## Convenções de conteúdo
 - Arquivos ficam em /content, nomeados como AAAA_autor_[titulo-curto].md
 - Todo arquivo segue o template de frontmatter + corpo já estabelecido
@@ -53,7 +58,16 @@ Foucault e a fortuna crítica sobre ele, de 1954 até hoje.
 - type: "primary" = texto do próprio Foucault → adicionar #foucault-primaria
   type: "secondary" = texto sobre Foucault por outro autor → adicionar
   #foucault-secundaria
+- Tags em português, sem acentos, separadas por hífen (#razao-desrazao,
+  #cuidado-de-si). Reutilizar as existentes sempre que possível.
 - Sempre incluir palavras-chave temáticas relevantes além das obrigatórias.
+
+## Navegação: a barra lateral não cresce
+`_sidebar.md` tem cinco itens fixos e **não deve receber links de obras**. O
+Docsify desdobra sozinho os subitens da página ativa, via `subMaxLevel: 2` no
+index.html: os cabeçalhos `## AAAA` de primary.md/secondary.md viram os anos, e
+os `## A`..`## Z` de keywords.md viram as letras. É o que mantém a navegação
+utilizável quando a bibliografia chegar aos milhares de itens.
 
 ## Regra de ouro: aprovação antes de publicar
 NUNCA faça `git commit` ou `git push` sem antes:
@@ -63,5 +77,11 @@ Somente após a confirmação, faça commit e push.
 
 ## Manutenção automática a cada lote de conteúdo novo
 Sempre que novos arquivos forem criados em /content, atualizar também:
-- _sidebar.md (adicionar os novos links, em ordem cronológica)
+- primary.md ou secondary.md (item sob o cabeçalho `## AAAA` do ano; criar o
+  cabeçalho na posição cronológica correta se o ano ainda não existir)
 - keywords.md (adicionar/atualizar entradas das #keywords novas)
+
+Não tocar em _sidebar.md — ver a seção "Navegação" acima.
+
+O comando `/foucault-lote [n]` executa esse fluxo inteiro, com a trava de
+aprovação embutida. Está versionado em `.claude/commands/foucault-lote.md`.

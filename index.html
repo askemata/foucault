@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <title>Michel Foucault's Bibliography - Docsify</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="A comprehensive bibliography of Michel Foucault's works and secondary literature" />
+  <meta name="description" content="Bibliografia das obras de Michel Foucault e da fortuna crítica sobre seu pensamento, de 1954 até hoje" />
 
   <!-- Favicon -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75' font-weight='bold' fill='%23333'>F</text></svg>">
@@ -193,7 +193,7 @@
   </style>
 </head>
 <body>
-  <div id="app">Loading...</div>
+  <div id="app">Carregando...</div>
 
   <script>
     // Docsify configuration
@@ -205,7 +205,7 @@
       autoHeader: false,
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       maxLevel: 3,
-      subMaxLevel: 3,
+      subMaxLevel: 2,
       coverpage: false,
       logo: null,
 
@@ -213,8 +213,8 @@
       search: {
         maxAge: 86400000,
         paths: 'auto',
-        placeholder: 'Search...',
-        noData: 'No results found.',
+        placeholder: 'Buscar...',
+        noData: 'Nenhum resultado encontrado.',
         depth: 3,
         hideOtherSidebarContent: false,
         namespace: 'foucault-bibliography'
@@ -321,7 +321,7 @@
       const button = `
         <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ddd;">
           <button class="export-button" onclick="downloadRIS('${escapedTitle}', '${risContent}')">
-            📥 Export to Zotero (.ris)
+            📥 Exportar para o Zotero (.ris)
           </button>
         </div>
       `;

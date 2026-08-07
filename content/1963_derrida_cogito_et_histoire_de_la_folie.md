@@ -11,7 +11,7 @@ url: "https://philpapers.org/rec/DERCEH"
 **Referência ABNT completa:**
 DERRIDA, Jacques. Cogito et histoire de la folie. *Revue de Métaphysique et de Morale*, Paris, v. 68, n. 4, p. 460-494, out./dez. 1963. Republicado em: DERRIDA, Jacques. *L'Écriture et la différence*. Paris: Seuil, 1967.
 
-**English translation:**
+**Tradução para o inglês:**
 DERRIDA, Jacques. Cogito and the History of Madness. In: *Writing and Difference*. Translated by Alan Bass. London: Routledge, 1978. p. 36-76.
 
 ## Resumo
@@ -24,4 +24,4 @@ O segundo nível é o que realmente importa, e é onde Derrida generaliza a obje
 
 Foucault levou nove anos para responder, e o fez em "Mon corps, ce papier, ce feu", texto acrescentado à segunda edição francesa da *Histoire de la folie*, em 1972, cujo tom é notoriamente áspero. A resposta acusa Derrida de reduzir a leitura a um exercício textual que ignora as práticas e as instituições, e de professar uma "pedagogia" que ensina que nada existe fora do texto. O debate fixou uma divisão duradoura entre desconstrução e análise histórica das práticas discursivas, e reaparece sempre que se discute o estatuto do arquivo, os limites da leitura textual e a possibilidade de escrever a história daquilo que uma cultura silenciou.
 
-**Palavras-chave:** #cogito #deconstruction #madness #reason-unreason #silence #method #reception #foucault-secundaria
+**Palavras-chave:** #cogito #desconstrucao #loucura #razao-desrazao #silencio #metodo #recepcao #foucault-secundaria

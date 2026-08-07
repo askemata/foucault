@@ -11,7 +11,7 @@ url: "https://www.worldcat.org/oclc/906813969"
 **Referência ABNT completa:**
 FOUCAULT, Michel. *Surveiller et punir: Naissance de la prison*. Paris: Gallimard, 1975. 318 p.
 
-**English translation:**
+**Tradução para o inglês:**
 FOUCAULT, Michel. *Discipline and Punish: The Birth of the Prison*. Translated by Alan Sheridan. New York: Pantheon Books, 1977.
 
 ## Resumo
@@ -24,4 +24,4 @@ Central to Foucault's analysis is the Panopticon, Jeremy Bentham's architectural
 
 Discipline works through three mechanisms: hierarchical observation (seeing without being seen), normalizing judgment (establishing standards against which to measure), and the examination (combining observation and judgment to produce knowledge and individuality). The result is docile bodies optimized for productivity and social order. Yet Foucault also notes points of resistance: prison rebellions, escapes, and refusals show that discipline never achieves total control. Power relations always contain possibility of counter-conduct.
 
-**Palavras-chave:** #discipline #punishment #prison #surveillance #panopticon #power #docile-bodies #normalization #observation #examination #institutions #resistance #biopolitics #foucault-primaria #modern-power #subjectification
+**Palavras-chave:** #disciplina #punicao #prisao #vigilancia #panoptico #poder #corpos-doceis #normalizacao #observacao #exame #instituicao #resistencia #biopolitica #foucault-primaria #poder-moderno #subjetivacao

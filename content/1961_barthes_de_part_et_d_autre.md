@@ -11,7 +11,7 @@ url: "https://www.editionspoints.com/ouvrage/essais-critiques-roland-barthes/978
 **Referência ABNT completa:**
 BARTHES, Roland. De part et d'autre. *Critique*, Paris, 1961. Republicado em: BARTHES, Roland. *Essais critiques*. Paris: Seuil, 1964.
 
-**English translation:**
+**Tradução para o inglês:**
 BARTHES, Roland. Taking Sides. In: *Critical Essays*. Translated by Richard Howard. Evanston: Northwestern University Press, 1972.
 
 ## Resumo
@@ -24,4 +24,4 @@ Dessa premissa Barthes extrai uma consequência estrutural. Se a loucura é defi
 
 O ensaio inaugura a fortuna crítica de Foucault e fixa termos que atravessariam todo o debate seguinte, especialmente *partage* e exclusão. Ao mesmo tempo, deixa em aberto a pergunta que Maurice Blanchot e Jacques Derrida radicalizariam nos anos imediatamente posteriores: em que língua é possível falar da desrazão, se toda linguagem disponível já é linguagem da razão. Barthes situa o problema sem enfrentá-lo, e é essa lacuna que organiza a discussão de 1961 a 1972. Ler este texto é reconstituir o momento em que a obra de Foucault deixou de ser um livro de história e passou a ser um problema filosófico.
 
-**Palavras-chave:** #madness #exclusion #structuralism #reception #reason-unreason #literature #foucault-secundaria
+**Palavras-chave:** #loucura #exclusao #estruturalismo #recepcao #razao-desrazao #literatura #foucault-secundaria

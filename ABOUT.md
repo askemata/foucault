@@ -1,110 +1,86 @@
-# About This Bibliography
+# Sobre o projeto
 
-## Project Overview
+## Visão geral
 
-Michel Foucault's Bibliography is a digital, open-access collection of primary works by Michel Foucault and carefully selected secondary literature about his thought. The project aims to facilitate scholarly research and teaching by providing:
+*Michel Foucault's Bibliography* é uma coleção digital de acesso aberto reunindo as obras de Michel Foucault e a fortuna crítica sobre seu pensamento. O projeto busca apoiar a pesquisa e o ensino oferecendo:
 
-- Complete bibliographic information with multiple citation formats
-- Summaries and keyword indexing for quick orientation
-- Direct export to citation management software (Zotero, Mendeley, etc.)
-- Full-text search across all descriptions and metadata
+- Informação bibliográfica completa, com referência em ABNT e tradução para o inglês quando existe
+- Resumos e indexação temática para orientação rápida
+- Exportação direta para gerenciadores de referências (Zotero, Mendeley e outros)
+- Busca em texto integral sobre todos os resumos e metadados
 
-## Why This Project?
+## Por que este projeto
 
-Foucault's work spans five decades and multiple languages (primarily French, with significant publication in English and other languages). His thought evolves significantly across his career—from early work on madness and medicine through archaeology and genealogy to late work on ethics and governmentality. Students and researchers benefit from a curated, organized introduction to this corpus.
+A obra de Foucault atravessa cinco décadas e várias línguas, e muda de forma significativa ao longo do percurso — dos primeiros trabalhos sobre loucura e medicina à arqueologia e à genealogia, e daí à ética e à governamentalidade dos últimos anos. Uma bibliografia organizada cronologicamente torna esse movimento visível, o que uma lista alfabética não faria.
 
-This bibliography prioritizes accessibility without sacrificing rigor: each entry provides scholarly context while remaining approachable to newcomers.
+A fortuna crítica recebe o mesmo tratamento cronológico, e por um motivo parecido: as respostas a Foucault formam elas próprias uma história, em que cada leitura responde às anteriores.
 
-## Technical Architecture
+O projeto procura ser acessível sem abrir mão do rigor: cada entrada oferece contexto suficiente para quem chega agora, e dados precisos o bastante para quem já trabalha com o material.
 
-- **Static site generator:** [Docsify](https://docsify.js.org) — renders Markdown in real-time without build step
-- **Hosting:** [GitHub Pages](https://pages.github.com) — free, version-controlled, deployable via GitHub Actions
-- **Export formats:**
-  - Highwire Press meta tags (for Zotero browser import)
-  - RIS files (compatible with Zotero, Mendeley, EndNote, etc.)
-- **Theming:** Responsive, light/dark mode aware CSS with Sphinx/Read the Docs aesthetic
+## Arquitetura técnica
 
-## Adding New Entries
+- **Renderização:** [Docsify](https://docsify.js.org) — lê os arquivos Markdown no navegador, em tempo real
+- **Sem etapa de compilação** — não há gerador de site nem workflow de deploy; os arquivos servidos são os arquivos do repositório
+- **Hospedagem:** [GitHub Pages](https://pages.github.com), servindo o branch `main` na raiz. Todo envio ao repositório publica em cerca de um minuto
+- **Exportação:** metadados Highwire Press no `<head>` de cada ficha, e arquivos `.ris` gerados no navegador
+- **Tema:** CSS responsivo, com modo claro e escuro
 
-To add a new work to the bibliography:
+## Como as fichas são organizadas
 
-1. Create a new file in `/content/` named `slug-of-title.md`
-2. Use this template:
+Os arquivos ficam em `/content`, nomeados `AAAA_autor_titulo-curto.md`, e seguem este formato:
 
 ```markdown
 ---
-title: "Full Title of Work"
-author: "Author Name"
+title: "Título da obra"
+author: "Nome do Autor"
 type: primary | secondary
-date: "YYYY" or "YYYY-MM-DD"
+date: "AAAA"
 url: "https://..."
 ---
 
-# [Title]
+# Título da obra
 
 **Referência ABNT completa:**
-[Full citation]
+[referência]
+
+**Tradução para o inglês:**
+[quando aplicável]
 
 ## Resumo
-[4 paragraphs]
 
-**Palavras-chave:** #keyword1 #keyword2 ... #foucault-primaria
+[quatro parágrafos]
+
+**Palavras-chave:** #tema1 #tema2 ... #foucault-primaria
 ```
 
-3. Update `_sidebar.md` to include a link to the new file
-4. Update `keywords.md` to add any new keywords with back-links
-5. Commit and push; GitHub Actions will deploy automatically
+`type: primary` marca textos do próprio Foucault, com a tag `#foucault-primaria`. `type: secondary` marca textos sobre ele, com `#foucault-secundaria`.
 
-## Citation Metadata
+Ao acrescentar uma ficha, é preciso atualizar também a página-índice correspondente (`primary.md` ou `secondary.md`) e o [índice de palavras-chave](/keywords.md). A barra lateral não precisa ser tocada: ela se desdobra sozinha a partir dos cabeçalhos de ano dessas páginas.
 
-Each entry includes structured metadata via two methods:
+## Metadados de citação
 
-### 1. Highwire Press Meta Tags
-Automatically injected into the page `<head>` when viewing an entry. Enables direct import into Zotero via browser button:
-- `citation_title`
-- `citation_author`
-- `citation_publication_date`
-- `citation_public_url`
+Cada ficha expõe seus dados por dois caminhos:
 
-### 2. RIS Export Button
-"Export to Zotero" button on each page generates and downloads a `.ris` file compatible with:
-- Zotero
-- Mendeley
-- EndNote
-- BibDesk
-- Citavi
-- And most other reference managers
+**Metadados Highwire Press** — injetados no `<head>` quando a ficha é aberta, permitindo importação direta pelo botão do Zotero no navegador: `citation_title`, `citation_author`, `citation_publication_date`, `citation_public_url`.
 
-## Contributing
+**Botão de exportação** — gera um arquivo `.ris` compatível com Zotero, Mendeley, EndNote, BibDesk, Citavi e a maioria dos gerenciadores.
 
-### Content Guidelines
+## Critérios de conteúdo
 
-- **Primary works:** Foucault's own publications, lectures, and interviews
-- **Secondary literature:** Scholarly monographs, articles, dissertations, and edited collections analyzing Foucault
-- **Summaries:** Clear, accurate, 4-paragraph format suitable for first-time readers and specialists alike
-- **Keywords:** Use existing keywords when possible; create new ones sparingly and descriptively
-- **Accuracy:** Double-check bibliographic information, dates, and citation formatting
+- **Obras primárias:** publicações, cursos e entrevistas do próprio Foucault
+- **Fortuna crítica:** monografias, artigos, teses e coletâneas sobre sua obra
+- **Resumos:** quatro parágrafos, claros e precisos, úteis tanto a quem chega agora quanto a especialistas
+- **Palavras-chave:** reutilizar as existentes sempre que possível; criar novas com parcimônia
+- **Exatidão:** conferir editora, ano, paginação e tradução antes de publicar. Dado que não se consegue confirmar não entra na referência — a incerteza é registrada em vez de preenchida por suposição
 
-### Code Contributions
+## Licença e atribuição
 
-Issues, pull requests, and suggestions are welcome. Please:
+A definir pelo mantenedor do projeto.
 
-1. Test changes locally (site requires no build: simply open `index.html` in a browser)
-2. Validate YAML frontmatter syntax in new `.md` files
-3. Ensure keywords are linked in `keywords.md`
-4. Update `_sidebar.md` for navigation
+## Créditos
 
-## License & Attribution
-
-[To be determined by project maintainer]
-
-## Credits
-
-This project was built with:
-- [Docsify](https://docsify.js.org) — lightweight documentation site generator
-- [GitHub Pages](https://pages.github.com) — static site hosting
-- [GitHub Actions](https://github.com/features/actions) — continuous deployment
+Construído com [Docsify](https://docsify.js.org) e hospedado no [GitHub Pages](https://pages.github.com).
 
 ---
 
-Questions or suggestions? Open an issue or contact the project maintainer.
+Dúvidas ou sugestões? Abra uma issue no repositório ou entre em contato com o mantenedor.

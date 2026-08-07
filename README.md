@@ -1,30 +1,29 @@
 # Michel Foucault's Bibliography
 
-A comprehensive, curated bibliography of Michel Foucault's primary works and selected secondary literature. This site provides detailed references, summaries, and keyword indexing for scholars, students, and researchers interested in Foucault's intellectual legacy.
+Bibliografia curada das obras de Michel Foucault e da fortuna crítica sobre seu pensamento, de 1954 até hoje. Cada entrada traz referência completa, resumo e indexação temática, para pesquisadores, estudantes e leitores interessados em sua obra.
 
-## About This Project
+## O que você encontra aqui
 
-This bibliography is organized to facilitate:
+- **Referências completas** — dados bibliográficos em ABNT, com tradução para o inglês quando existe
+- **Resumos** — quatro parágrafos por obra, situando argumento, método e importância
+- **Índice temático** — palavras-chave que conectam obras distantes entre si
+- **Exportação para gerenciadores** — arquivos `.ris` compatíveis com Zotero, Mendeley e outros
+- **Busca em texto integral** — por título, autor ou tema
 
-- **Bibliographic research** — complete reference information for primary and secondary sources
-- **Keyword exploration** — thematic indexing for discovering related works
-- **Citation management** — export references directly to Zotero or other citation managers
-- **Full-text search** — quickly find works by title, author, or keywords
+## Como navegar
 
-## Quick Start
+Use a **barra lateral** para escolher entre as obras do próprio Foucault e a fortuna crítica. Ao entrar numa dessas seções, a barra desdobra os anos disponíveis — clique num ano para saltar direto a ele. O mesmo vale para o índice de palavras-chave, que se desdobra nas letras do alfabeto.
 
-Use the **search bar** at the top left to find works by title, author, or keyword. Browse the **sidebar menu** to explore by category (primary works, secondary literature).
+A **busca**, no alto da barra lateral, procura em todos os resumos e referências ao mesmo tempo, e costuma ser o caminho mais curto quando você já sabe o que procura.
 
-## Export References
+## Exportar referências
 
-Each page includes an **"Export to Zotero" button** that downloads a `.ris` file compatible with Zotero, Mendeley, and other reference managers. References also use Highwire Press meta tags for direct Zotero browser import.
+Cada ficha traz o botão **"Exportar para o Zotero"**, que baixa um arquivo `.ris` compatível com Zotero, Mendeley, EndNote e a maioria dos gerenciadores. As páginas também expõem metadados no padrão Highwire Press, o que permite importar a referência direto pelo botão do Zotero no navegador, sem baixar nada.
 
-## Keywords & Themes
+## Índice temático
 
-Explore thematic connections through our [keyword index](/keywords.md), which links related concepts across works.
+O [índice de palavras-chave](/keywords.md) reúne os temas que atravessam a bibliografia e mostra quais obras compartilham cada um deles. É o melhor ponto de partida quando o interesse é um problema, e não um livro específico.
 
 ---
 
-**Last updated:** {formatUpdated}
-
-**How to contribute:** See the [ABOUT](ABOUT.md) page for contribution guidelines.
+**Como contribuir:** veja a página [Sobre o projeto](/ABOUT.md).

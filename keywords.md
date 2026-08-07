@@ -1,311 +1,307 @@
-# Keywords & Thematic Index
+# Índice de palavras-chave
 
-This page indexes all keywords used throughout the bibliography. Use it to explore thematic connections across primary and secondary works.
+Este índice reúne os temas que atravessam a bibliografia. Use-o para descobrir conexões entre obras primárias e fortuna crítica. A barra lateral desdobra as letras: clique numa delas para saltar direto ao trecho.
 
 ## A
 
-### Ancient Greece
-Works analyzing ancient Greek society, ethics, and thought systems.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek ethics of pleasure and temperance
+### Arqueologia do Saber
+Obras que exploram o método arqueológico de Foucault e sua teoria do conhecimento.
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — teoria fundadora da arqueologia e da *epistémê*
+- [1969 - L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — tratado metodológico explícito
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — arqueologia do discurso e de seus regimes
 
-### Ancient Rome
-Works examining Roman society, practices, and modes of subjectification.
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman self-care and technologies of the self
-
-### Archaeology of Knowledge
-Works exploring Foucault's archaeological method and epistemology.
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — foundational theory of archaeology and *épistémé*
-- [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — explicit methodological treatise
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — archaeology of discourse and its regimes
-
-### Authority
-Power to speak, define knowledge, and regulate truth.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — who has authority to speak and be heard
+### Autoridade
+Poder de falar, definir o saber e regular a verdade.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — quem tem autoridade para falar e ser ouvido
 
 ## B
 
-### Biopolitics
-Works analyzing power relations over life, bodies, and populations.
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — confinement as historical biopolitics
-- [Surveiller et punir](/content/surveiller_et_punir.md) — discipline and surveillance as biopower
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — sexuality as object of biopolitical control
+### Biopolítica
+Relações de poder sobre a vida, os corpos e as populações.
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — o enclausuramento como biopolítica histórica
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — disciplina e vigilância como biopoder
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — a sexualidade como objeto de controle biopolítico
 
 ## C
 
-### Classical Age / Classical Epistémé
-The 17th-18th century epistemic regime of representation and order.
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — Classical treatment of madness as pathology
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — Classical epistémé as historical configuration
-
 ### Cogito / Descartes
-The disputed reading of the First Meditation and the place of madness in the cogito.
-- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — hyperbolic doubt as including, not excluding, madness
+A leitura disputada da Primeira Meditação e o lugar da loucura no cogito.
+- [1963 - Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — a dúvida hiperbólica incluiria a loucura, em vez de excluí-la
 
-### Confinement
-Historical analysis of institutions isolating populations (asylums, prisons, hospitals).
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — the Great Confinement and madness
+### Cuidado de Si
+Práticas éticas de atenção e cuidado com a própria existência.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — o cuidado de si na ética grega
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — o cuidado romano como prática ética integral
 
 ## D
 
-### Deconstruction
-The Derridean critique of Foucault and the debate it opened over text, archive, and practice.
-- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — founding text of the Derrida–Foucault polemic
+### Desconstrução
+A crítica derridiana a Foucault e o debate que ela abriu sobre texto, arquivo e prática.
+- [1963 - Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — texto fundador da polêmica Derrida–Foucault
 
-### Discourse
-Language, speech, and communication as sites of power and knowledge production.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — discourse as regulated through procedures of exclusion
+### Disciplina e Vigilância
+A análise do poder normalizador pela observação e pela regulação.
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — o poder disciplinar como modalidade central
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — a sexualidade disciplinada pela confissão
 
-### Discipline & Surveillance
-Foucault's analysis of normalizing power through observation and regulation.
-- [Surveiller et punir](/content/surveiller_et_punir.md) — disciplinary power as central modality
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — sexuality disciplined through confession
+### Discurso
+A linguagem e a fala como lugares de produção de poder e de saber.
+- [1969 - L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — o enunciado e as regras de formação discursiva
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — o discurso regulado por procedimentos de exclusão
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — a proliferação discursiva sobre o sexo
 
 ## E
 
-### Ethics / Éthique
-Ways of constituting oneself as a moral subject through practices and self-discipline.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek ethics of pleasure and moderation
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman ethics of self-care and self-transformation
+### Enclausuramento
+Análise histórica das instituições que isolam populações (asilos, prisões, hospitais).
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — a Grande Internação e a loucura
 
-### Epistémé
-Historical configuration of knowledge organizing what can be known and how.
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — theory and analysis of epistémés
+### Epistémê
+Os regimes históricos que determinam o que pode ser sabido numa época.
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — a epistémê como configuração histórica
+- [1969 - L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — fundamentos epistemológicos do método
 
-### Exclusion
-Mechanisms by which society limits, silences, or marginalizes certain forms of speech and knowledge.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — procedures of exclusion governing discourse
-- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — the *partage* dividing reason from unreason
+### Estoicismo
+Escola filosófica romana centrada na virtude e no controle racional.
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — a ética estoica e as práticas de cuidado de si
+
+### Estruturalismo
+Foucault lido pela chave estruturalista, e os limites dessa leitura.
+- [1961 - Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — a loucura como função e relação, não como substância
+
+### Ética
+A constituição do sujeito moral e as formas históricas da conduta.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — a ética grega do prazer e da temperança
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — a ética romana da relação consigo
+
+### Exclusão
+Mecanismos pelos quais uma sociedade limita, silencia ou marginaliza certas falas e saberes.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — os procedimentos de exclusão que governam o discurso
+- [1961 - Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — o *partage* que separa razão e desrazão
 
 ## F
 
-### Foucault (Primary)
-Direct works by Michel Foucault.
-- All tagged articles marked `#foucault-primaria`
+### Foucault (obra primária)
+Textos do próprio Michel Foucault.
+- Todas as fichas marcadas com `#foucault-primaria`
 
-### Foucault (Secondary)
-Scholarly works about Foucault and his ideas.
-- All tagged articles marked `#foucault-secundaria`
+### Foucault (fortuna crítica)
+Textos de outros autores sobre Foucault e seu pensamento.
+- Todas as fichas marcadas com `#foucault-secundaria`
 
 ## G
 
-### Genealogy
-Historical method tracing contingent origins of categories and practices.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — genealogy of sexuality from ancient ethics
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — genealogy of modern subjectivity through ancient practices
+### Genealogia
+O método genealógico e a análise histórica das relações de poder.
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — genealogia do dispositivo da sexualidade
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — genealogia do sujeito ético
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — genealogia das práticas de si
 
-### Governmentality
-Art of governing—how subjects are shaped and managed through power relations and rationalities.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — discourse as technology of governance
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — self-government through ethical practices
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — self-governance through care of the self
+### Governamentalidade
+As técnicas pelas quais se conduz a conduta de si e dos outros.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — o controle do dizível como forma de governo
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — o governo de si na ética grega
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — o governo de si na cultura romana
+
+### Grécia Antiga
+Obras que analisam a sociedade, a ética e os sistemas de pensamento gregos.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — a ética grega do prazer e da temperança
 
 ## H
 
-### History of Medicine
-Works tracing historical transformation of medicine and medical knowledge.
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — psychiatry's emergence in Classical period
-- [Naissance de la clinique](/content/naissance_de_la_clinique.md) — birth of modern medical gaze
+### História da Ética
+A transformação histórica das formas de subjetivação moral.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — da moral do código à ética do sujeito
 
-### History of Ethics
-Genealogical study of how societies and individuals constitute moral subjects.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethics of pleasure in ancient societies
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman ethics and self-care
+### História da Medicina
+O saber médico como formação histórica.
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — a constituição da psiquiatria como saber médico
+- [1963 - Naissance de la clinique](/content/naissance_de_la_clinique.md) — o olhar clínico e a anatomia patológica
 
-### History of Sexuality
-Foucault's genealogical analysis of sexuality as historical production.
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — repressive hypothesis and power-knowledge
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek sexual ethics
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman sexuality and self-constitution
+### História da Sexualidade
+A produção e a regulação históricas da sexualidade.
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — a hipótese repressiva e a vontade de saber
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — o uso dos prazeres na Antiguidade grega
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — o cuidado de si na Antiguidade romana
 
 ## I
 
-### Institution / Institutionalization
-Analysis of how institutions shape subjects and regulate behavior.
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — asylum as institution
-- [Surveiller et punir](/content/surveiller_et_punir.md) — prison as paradigmatic institution
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — institutions as regulatory mechanisms for discourse
+### Idade Clássica / Epistémê Clássica
+O regime epistêmico dos séculos XVII e XVIII, estruturado pela representação e pela ordem.
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — o tratamento clássico da loucura como patologia
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — a epistémê clássica como configuração histórica
 
-## K
-
-### Knowledge & Power
-Foucault's central insight linking knowledge production to power relations.
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — knowledge structures in historical epistémés
-- [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — epistemological foundations
-- [Surveiller et punir](/content/surveiller_et_punir.md) — knowledge as mode of power
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — power-knowledge formations
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — truth regimes and power effects
+### Instituição / Institucionalização
+Como as instituições formam sujeitos e regulam condutas.
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — o asilo como instituição
+- [1963 - Naissance de la clinique](/content/naissance_de_la_clinique.md) — a institucionalização do olhar médico
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — as instituições como mecanismos de regulação do discurso
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — a prisão como instituição paradigmática
 
 ## L
 
-### Language / Langage
-Systems of signs, communication, and meaning-making as modes of knowledge and power.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — language regulated through power
-- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — whether reason's language can speak of unreason
+### Linguagem
+Sistemas de signos e produção de sentido como modos de saber e de poder.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — a linguagem regulada pelo poder
+- [1961 - Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — se a língua da razão pode falar da desrazão
 
-### Literature / Littérature
-Readings of Foucault from the side of literature, writing, and the limits of saying.
-- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — moves the reception from psychiatry to literary criticism
-- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — madness as absence of œuvre
+### Literatura
+Leituras de Foucault pelo lado da literatura, da escrita e dos limites do dizer.
+- [1961 - Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — desloca a recepção da psiquiatria para a crítica literária
+- [1961 - Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — a loucura como ausência de obra
+
+### Loucura / Doença Mental
+Análise histórica da loucura como categoria e como objeto médico.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — a doença mental como fenômeno social e psicológico
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — genealogia das categorias psiquiátricas
+- [1963 - Naissance de la clinique](/content/naissance_de_la_clinique.md) — patologia e olhar médico
+- [1961 - Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — a loucura como fato de civilização, não objeto natural
+- [1961 - Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — a desrazão disponível apenas como ausência
+- [1963 - Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — se o cogito exclui a loucura
 
 ## M
 
-### Madness / Mental Illness
-Historical analysis of madness as category and medical object.
-- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — mental illness as social and psychological phenomenon
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — genealogy of psychiatric categories
-- [Naissance de la clinique](/content/naissance_de_la_clinique.md) — pathology and medical gaze
-- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — madness as a fact of civilization, not a natural object
-- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — unreason as something available only as absence
-- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — whether the cogito excludes madness
+### Método / Metodologia
+Os procedimentos analíticos de Foucault: arqueologia, genealogia e seus limites.
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — o método arqueológico em exercício
+- [1969 - L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — o método arqueológico explicitado
+- [1963 - Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — a arqueologia do silêncio acusada de aporética
 
-### Method / Methodology
-Works on Foucault's analytical approaches (archaeology, genealogy, etc.).
-- [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — archaeological method explicit
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — archaeological method in practice
-- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — an archaeology of silence charged with being aporetic
-
-### Morality / Moralité
-Systems of ethical rules and norms governing conduct and conscience.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethics distinct from morality in Greek thought
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — moral development through self-care
+### Moral / Moralidade
+Códigos morais e modos de constituir-se como sujeito moral.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — a distinção entre código moral e trabalho ético
 
 ## N
 
-### Normalization
-Historical production of norms and normal subjects through power techniques.
-- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — normalization through psychiatric practice
-- [Surveiller et punir](/content/surveiller_et_punir.md) — normalization as disciplinary outcome
+### Normalização
+A produção da norma e a distribuição dos indivíduos em relação a ela.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — normal e patológico na psicologia
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — a sanção normalizadora e o exame
 
 ## O
 
-### Order / Ordering Systems
-Ways societies organize and categorize knowledge and phenomena.
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — order as central to Classical epistémé
-- [Naissance de la clinique](/content/naissance_de_la_clinique.md) — clinical ordering of pathology
+### Ordem / Sistemas de Ordenação
+Como o pensamento organiza, classifica e ordena as coisas.
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — a ordem social e a exclusão da desrazão
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — a ordem como condição do saber
 
 ## P
 
-### Pleasure / Plaisir
-Bodily and sensual gratification as object of ethical regulation and knowledge.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek regulation of bodily pleasures
+### Poder / Relações de Poder
+O poder como relação produtiva, e não apenas como repressão.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — o poder que opera pelo discurso
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — o poder disciplinar e o poder moderno
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — poder, saber e prazer entrelaçados
 
-### Practices of Self / Pratiques de soi
-Techniques through which individuals constitute, transform, and govern themselves.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — technologies of the self in Greek ethics
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman self-care practices and self-transformation
+### Prazer
+O prazer como objeto de elaboração ética.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — o uso dos prazeres e a temperança
 
-### Psychology / Personality
-Study of the psyche and individual character as historical and social productions.
-- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — personality as mediator between biology and pathology
+### Práticas de Si
+Técnicas pelas quais o indivíduo se constitui como sujeito.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — tecnologias de si na Antiguidade grega
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — as práticas de si na cultura romana
 
-### Power / Power Relations
-Central to all of Foucault's later work; analysis of how power circulates and constitutes subjects.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — power operations through discourse and regulation
-- [Surveiller et punir](/content/surveiller_et_punir.md) — power as productive, not merely repressive
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — power-knowledge-pleasure nexus
-- [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — power effects in discourse
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — power relations in ethical formation
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — power and self-governance
+### Psicologia / Personalidade
+A psicologia como saber e a personalidade como objeto construído.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — a doença mental lida pela psicologia da personalidade
 
-### Psychiatry
-Medical discipline studying madness and mental illness.
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — genealogy and critique
-- [Naissance de la clinique](/content/naissance_de_la_clinique.md) — psychiatric emergence
+### Psiquiatria
+A psiquiatria como saber e como prática institucional.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — história da psiquiatria e seus pressupostos
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — a constituição do saber psiquiátrico
 
 ## R
 
-### Reason / Unreason
-The dividing line by which reason constitutes itself against what it refuses to recognize.
-- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — the division itself as the object of history
-- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — forgetting as the condition of reason
-- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — reason's language as inescapable
+### Razão / Desrazão
+A linha divisória pela qual a razão se constitui contra aquilo que recusa reconhecer.
+- [1961 - Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — a própria divisão como objeto da história
+- [1961 - Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — o esquecimento como condição da razão
+- [1963 - Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — a língua da razão como inescapável
 
-### Reception & Debate
-The critical fortune of Foucault's work: reviews, polemics, and replies.
-- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — the first major review of *Histoire de la folie*
-- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — the objection later radicalized by Derrida
-- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — opens the polemic Foucault answers in 1972
+### Recepção e Debate
+A fortuna crítica de Foucault: resenhas, polêmicas e respostas.
+- [1961 - Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — a primeira grande resenha da *Histoire de la folie*
+- [1961 - Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — a objeção depois radicalizada por Derrida
+- [1963 - Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — abre a polêmica que Foucault responde em 1972
 
-### Renaissance
-16th-century epistemic regime structured by resemblance.
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — Renaissance relationship to madness
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — Renaissance epistémé
+### Reflexão
+A relação reflexiva do sujeito consigo mesmo.
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — exame de consciência e reflexão sobre si
 
-### Representation
-Classical epistemic mode making things knowable through language and order.
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — representation as central to Classical thought
-- [Naissance de la clinique](/content/naissance_de_la_clinique.md) — medical representation of body
+### Regulação
+Mecanismos que ordenam condutas, discursos e populações.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — os procedimentos que regulam o dizível
 
-### Reflection / Réflexion
-Practices of examining oneself, one's thoughts, and conduct; self-examination.
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — philosophical reflection as ethical practice
+### Renascimento
+O regime epistêmico do século XVI, estruturado pela semelhança.
+- [1961 - Histoire de la folie](/content/histoire_de_la_folie.md) — a relação renascentista com a loucura
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — a epistémê renascentista
 
-### Regulation / Régulation
-Rules, norms, and mechanisms governing conduct, knowledge, and discourse.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — regulation of discourse through exclusion and procedures
+### Representação
+A representação como forma histórica do saber.
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — a ordem da representação na Idade Clássica
 
-### Resistance / Counter-conduct
-Forms of resistance and escape from power relations.
-- [Surveiller et punir](/content/surveiller_et_punir.md) — prison rebellions and resistance
+### Resistência / Contraconduta
+Formas de resistir e de escapar às relações de poder.
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — revoltas prisionais e resistência
+
+### Roma Antiga
+Obras que examinam a sociedade romana e seus modos de subjetivação.
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — o cuidado de si e as tecnologias do eu romanas
 
 ## S
 
-### Self-care / Souci de soi
-Ethical practices of attending to and caring for one's own existence and self.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — care of the self in Greek ethics
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman self-care as comprehensive ethical practice
+### Saber e Poder
+A tese central que vincula a produção de saber às relações de poder.
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — estruturas de saber nas epistémês históricas
+- [1969 - L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — fundamentos epistemológicos
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — regimes de verdade e efeitos de poder
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — o saber como modalidade de poder
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — formações de poder-saber
 
-### Sexuality
-Historical production and regulation of sexuality; sexuality as object of knowledge and power.
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — comprehensive genealogy
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — sexuality in Greek ethical frameworks
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — sexuality in Roman self-constitution
+### Sexualidade
+A sexualidade como objeto de saber e alvo de poder.
+- [1976 - Histoire de la sexualité, Tome 1](/content/histoire_sexualite_vol1.md) — genealogia do dispositivo da sexualidade
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — a sexualidade nos quadros éticos gregos
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — a sexualidade na constituição de si romana
 
-### Silence / Absence of Work
-The impossibility of speaking for what a culture has silenced; madness as absence of œuvre.
-- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — silence as a positive mode of relation
-- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — an archaeology of silence as aporetic project
+### Silêncio / Ausência de Obra
+A impossibilidade de falar por aquilo que uma cultura silenciou.
+- [1961 - Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — o silêncio como modo positivo de relação
+- [1963 - Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — a arqueologia do silêncio como projeto aporético
 
-### Stoicism
-Ancient Roman philosophical school emphasizing virtue and rational control.
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Stoic ethics and practices of self-care
-
-### Structuralism
-Foucault read through the structuralist frame, and the limits of that reading.
-- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — madness as function and relation rather than substance
-
-### Subject / Subjectification
-How individuals become subjects through power relations and historical processes.
-- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — subject formation through psychiatric normalization
-- [Surveiller et punir](/content/surveiller_et_punir.md) — subject formation through discipline
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — sexual subject formation
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethical subject formation in ancient society
-- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman subject as reflective and self-transforming
+### Sujeito / Subjetivação
+Como o indivíduo se torna sujeito, e por quais operações.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — subjetividade e personalidade patológica
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — a subjetivação pela disciplina
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — o sujeito ético grego
+- [1984 - Histoire de la sexualité, Tome 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — a subjetivação romana
 
 ## T
 
-### Taxonomy
-Classification systems as modes of organizing and making knowledge.
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — taxonomy as Classical epistemology
-- [Naissance de la clinique](/content/naissance_de_la_clinique.md) — medical taxonomy
+### Taxonomia
+Sistemas de classificação como formas históricas de saber.
+- [1963 - Naissance de la clinique](/content/naissance_de_la_clinique.md) — a classificação das doenças
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — a história natural e o quadro taxonômico
 
-### Temperance / Tempérance
-Moderation and self-control as ethical virtue, especially regarding bodily desires.
-- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — temperance as Greek ethical virtue
-
-### Truth / Truthfulness
-Historical production of truth; regimes of truth.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — truth regimes and procedures controlling truth-claims
-- [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — truth as historically contingent
-- [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — conditions of possibility for true statements
+### Temperança
+O domínio de si como virtude ética.
+- [1984 - Histoire de la sexualité, Tome 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — a temperança no uso dos prazeres
 
 ## V
 
-### Visibility / Invisibility
-What becomes visible/invisible in different historical periods and systems of knowledge.
-- [Naissance de la clinique](/content/naissance_de_la_clinique.md) — clinical gaze and visibility
-- [Surveiller et punir](/content/surveiller_et_punir.md) — panopticon and surveillance
+### Verdade
+A produção histórica da verdade e seus regimes.
+- [1966 - Les Mots et les Choses](/content/les_mots_et_les_choses.md) — a verdade como historicamente contingente
+- [1969 - L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — condições de possibilidade do enunciado verdadeiro
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — regimes de verdade e controle das pretensões de verdade
+
+### Visibilidade / Invisibilidade
+O que se torna visível ou invisível em cada regime de saber.
+- [1963 - Naissance de la clinique](/content/naissance_de_la_clinique.md) — o olhar clínico e a visibilidade do corpo
+- [1975 - Surveiller et punir](/content/surveiller_et_punir.md) — o panóptico e a vigilância
 
 ---
 
-**How to use this index:** Click any keyword to filter and explore related works across the bibliography. Keywords marked with multiple works indicate rich thematic connections worth investigating.
+**Como usar este índice:** clique em qualquer obra para abrir sua ficha completa. Temas com várias obras indicam conexões densas, que costumam render boas trilhas de leitura.

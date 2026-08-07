@@ -3,23 +3,23 @@ title: "Histoire de la sexualité, Tome 3: Le Souci de soi"
 author: "Michel Foucault"
 type: primary
 date: "1984"
-url: "https://www.worldcat.org/oclc/906814451"
+url: "https://www.worldcat.org/oclc/906814404"
 ---
 
 # Histoire de la sexualité, Tome 3: Le Souci de soi
 
 **Referência ABNT completa:**
-FOUCAULT, Michel. *Histoire de la sexualité, Tome 3: Le Souci de soi*. Paris: Gallimard, 1984. 287 p.
+FOUCAULT, Michel. *Histoire de la sexualité, Tome 3: Le Souci de soi*. Paris: Gallimard, 1984. 284 p.
 
 **English translation:**
 FOUCAULT, Michel. *The History of Sexuality, Volume 3: The Care of the Self*. Translated by Robert Hurley. New York: Pantheon Books, 1986.
 
 ## Resumo
 
-*Le Souci de soi* conclui a série *Histoire de la sexualité* estendendo a genealogia das práticas éticas para o período helenístico e romano, mostrando como a ética da sexualidade evoluiu além do ideal de temperança grego. Durante este período, observa Foucault, emergiram novas técnicas e práticas de si centradas no "cuidado de si" (*epimeleia heautou*): uma preocupação intensificada com a saúde do corpo, a moderação sexual, a leitura meditativa e a autoexaminação contínua.
+*Le Souci de soi* completa a trilogia da História da Sexualidade de Foucault, focalizando no período greco-romano tardio (século I ao II da era cristã), particularmente na filosofia estoica. Diferentemente do Volume 2, que enfatizava moderação e domínio corporal como virtudes éticas, o Volume 3 examina como uma ética mais reflexiva do cuidado de si emergiu. Foucault demonstra como, no período helenístico e romano, o indivíduo tornou-se cada vez mais responsável não apenas por seus atos, mas também por seus pensamentos, desejos e consciência interior.
 
-Diferentemente do período clássico grego onde a temperança era virtude primária, a ética do período romano tardia enfatizava o monitoramento constante de pensamentos e desejos, a confissão de faltas e a busca por iluminação espiritual. Foucault argumenta que estas práticas de si romanas estabelecem uma continuidade importante com as confissões cristãs posteriores: ambas envolvem técnicas de introspexão, auto-revelação e auto-transformação direcionadas a um mestre ou autoridade.
+A obra mapeia o surgimento de práticas sofisticadas de autoanálise e vigilância de si mesmo. Foucault discute práticas como o diário íntimo, a confissão a um amigo filósofo, e técnicas contemplativas que preparavam o indivíduo para viver em conformidade com a razão universal e a ordem natural. Ele demonstra como a sexualidade foi progressivamente integrada em uma ética mais ampla de preservação da saúde, moderação no casamento, e cuidado com o envelhecimento. *Le Souci de soi* revela que a subjetividade "interiorizada" frequentemente considerada moderna tem suas raízes nas práticas romanas de escrutínio próprio.
 
-Este volume é essencial para compreender como Foucault reconceitualizou sua abordagem metodológica nos últimos anos de sua vida. Em vez de focar exclusivamente em como o poder opera "de cima para baixo" através de instituições, *Le Souci de soi* investiga como os sujeitos ativamente se constituem através de práticas éticas de transformação de si mesmos. Esta mudança marca a genealogia de Foucault da ética e da liberdade: não se trata simplesmente de resistir ao poder, mas de criar novas práticas de liberdade através de tecnologias criativas do eu.
+Este volume é essencial para compreender a transição histórica que Foucault traça: de uma sexualidade governada por convenções sociais (Volume 2) para uma sexualidade cada vez mais sujeita à autogovernanço através de práticas de reflexão e transformação de si. O livro estabelece também o cenário para o que o cristianismo virá a fazer com essas práticas de si. *Le Souci de soi* oferece a perspectiva histórica para entender como nós mesmos somos produzidos como sujeitos através de práticas específicas de autoexame e autotransformação, abrindo possibilidades para pensar a genealogia de nossa experiência contemporânea da subjetividade.
 
-**Palavras-chave:** #sexuality #care-of-self #ethics #self-cultivation #ancient-rome #subjectivity #confession #spiritual-exercises #genealogy #foucault-primaria #technologies-of-self #freedom #governmentality #late-work
+**Palavras-chave:** #sexuality #self-care #stoicism #ancient-rome #subjectivity #ethics #reflection #governmentality #practices-of-self #foucault-primaria #genealogy #technologies-of-self #conscience

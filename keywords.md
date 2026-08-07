@@ -4,10 +4,23 @@ This page indexes all keywords used throughout the bibliography. Use it to explo
 
 ## A
 
+### Ancient Greece
+Works analyzing ancient Greek society, ethics, and thought systems.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek ethics of pleasure and temperance
+
+### Ancient Rome
+Works examining Roman society, practices, and modes of subjectification.
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman self-care and technologies of the self
+
 ### Archaeology of Knowledge
 Works exploring Foucault's archaeological method and epistemology.
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — foundational theory of archaeology and *épistémé*
 - [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — explicit methodological treatise
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — archaeology of discourse and its regimes
+
+### Authority
+Power to speak, define knowledge, and regulate truth.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — who has authority to speak and be heard
 
 ## B
 
@@ -18,11 +31,6 @@ Works analyzing power relations over life, bodies, and populations.
 - [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — sexuality as object of biopolitical control
 
 ## C
-
-### Care of the Self
-Ethical practices of self-transformation and self-cultivation in ancient and modern contexts.
-- [Histoire de la sexualité Vol. 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman practices of caring for the self
-- [Histoire de la sexualité Vol. 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek technologies of self and ethics
 
 ### Confinement
 Historical analysis of institutions isolating populations (asylums, prisons, hospitals).
@@ -36,8 +44,8 @@ The 17th-18th century epistemic regime of representation and order.
 ## D
 
 ### Discourse
-Language and communication systems as shaped by power relations and historically contingent rules.
-- [L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — procedures of exclusion and regimes of truth
+Language, speech, and communication as sites of power and knowledge production.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — discourse as regulated through procedures of exclusion
 
 ### Discipline & Surveillance
 Foucault's analysis of normalizing power through observation and regulation.
@@ -46,15 +54,18 @@ Foucault's analysis of normalizing power through observation and regulation.
 
 ## E
 
-### Ethics
-Moral philosophy and practices of self-formation; how subjects are constituted as ethical beings.
-- [Histoire de la sexualité Vol. 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethics of pleasure in ancient Greece
-- [Histoire de la sexualité Vol. 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — ethics of care in ancient Rome
-- [L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — ethical dimensions of speaking truth
+### Ethics / Éthique
+Ways of constituting oneself as a moral subject through practices and self-discipline.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek ethics of pleasure and moderation
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman ethics of self-care and self-transformation
 
 ### Epistémé
 Historical configuration of knowledge organizing what can be known and how.
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — theory and analysis of epistémés
+
+### Exclusion
+Mechanisms by which society limits, silences, or marginalizes certain forms of speech and knowledge.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — procedures of exclusion governing discourse
 
 ## F
 
@@ -66,6 +77,19 @@ Direct works by Michel Foucault.
 Scholarly works about Foucault and his ideas.
 - All tagged articles marked `#foucault-secundaria`
 
+## G
+
+### Genealogy
+Historical method tracing contingent origins of categories and practices.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — genealogy of sexuality from ancient ethics
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — genealogy of modern subjectivity through ancient practices
+
+### Governmentality
+Art of governing—how subjects are shaped and managed through power relations and rationalities.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — discourse as technology of governance
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — self-government through ethical practices
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — self-governance through care of the self
+
 ## H
 
 ### History of Medicine
@@ -73,9 +97,16 @@ Works tracing historical transformation of medicine and medical knowledge.
 - [Histoire de la folie](/content/histoire_de_la_folie.md) — psychiatry's emergence in Classical period
 - [Naissance de la clinique](/content/naissance_de_la_clinique.md) — birth of modern medical gaze
 
+### History of Ethics
+Genealogical study of how societies and individuals constitute moral subjects.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethics of pleasure in ancient societies
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman ethics and self-care
+
 ### History of Sexuality
 Foucault's genealogical analysis of sexuality as historical production.
 - [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — repressive hypothesis and power-knowledge
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek sexual ethics
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman sexuality and self-constitution
 
 ## I
 
@@ -83,6 +114,13 @@ Foucault's genealogical analysis of sexuality as historical production.
 Analysis of how institutions shape subjects and regulate behavior.
 - [Histoire de la folie](/content/histoire_de_la_folie.md) — asylum as institution
 - [Surveiller et punir](/content/surveiller_et_punir.md) — prison as paradigmatic institution
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — institutions as regulatory mechanisms for discourse
+
+## L
+
+### Language / Langage
+Systems of signs, communication, and meaning-making as modes of knowledge and power.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — language regulated through power
 
 ## K
 
@@ -92,28 +130,31 @@ Foucault's central insight linking knowledge production to power relations.
 - [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — epistemological foundations
 - [Surveiller et punir](/content/surveiller_et_punir.md) — knowledge as mode of power
 - [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — power-knowledge formations
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — truth regimes and power effects
 
 ## M
 
 ### Madness / Mental Illness
 Historical analysis of madness as category and medical object.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — mental illness as social and psychological phenomenon
 - [Histoire de la folie](/content/histoire_de_la_folie.md) — genealogy of psychiatric categories
-- [Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — first work on mental illness and psychology
 - [Naissance de la clinique](/content/naissance_de_la_clinique.md) — pathology and medical gaze
-
-### Mental Illness & Psychology
-Relationship between psychological subjectivity and social/historical conditions.
-- [Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — personality, society, and pathology
 
 ### Method / Methodology
 Works on Foucault's analytical approaches (archaeology, genealogy, etc.).
 - [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — archaeological method explicit
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — archaeological method in practice
 
+### Morality / Moralité
+Systems of ethical rules and norms governing conduct and conscience.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethics distinct from morality in Greek thought
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — moral development through self-care
+
 ## N
 
 ### Normalization
 Historical production of norms and normal subjects through power techniques.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — normalization through psychiatric practice
 - [Surveiller et punir](/content/surveiller_et_punir.md) — normalization as disciplinary outcome
 
 ## O
@@ -125,18 +166,27 @@ Ways societies organize and categorize knowledge and phenomena.
 
 ## P
 
-### Pleasure
-Bodily and sensual enjoyment; how pleasure is ethically regulated and historically constituted.
-- [Histoire de la sexualité Vol. 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek ethics of use of pleasures
-- [Histoire de la sexualité Vol. 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman care of self and bodily control
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — pleasure in power-knowledge relations
+### Pleasure / Plaisir
+Bodily and sensual gratification as object of ethical regulation and knowledge.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek regulation of bodily pleasures
+
+### Practices of Self / Pratiques de soi
+Techniques through which individuals constitute, transform, and govern themselves.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — technologies of the self in Greek ethics
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman self-care practices and self-transformation
+
+### Psychology / Personality
+Study of the psyche and individual character as historical and social productions.
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — personality as mediator between biology and pathology
 
 ### Power / Power Relations
 Central to all of Foucault's later work; analysis of how power circulates and constitutes subjects.
-- [L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — power operating through discourse
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — power operations through discourse and regulation
 - [Surveiller et punir](/content/surveiller_et_punir.md) — power as productive, not merely repressive
 - [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — power-knowledge-pleasure nexus
 - [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — power effects in discourse
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — power relations in ethical formation
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — power and self-governance
 
 ### Psychiatry
 Medical discipline studying madness and mental illness.
@@ -155,31 +205,42 @@ Classical epistemic mode making things knowable through language and order.
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — representation as central to Classical thought
 - [Naissance de la clinique](/content/naissance_de_la_clinique.md) — medical representation of body
 
+### Reflection / Réflexion
+Practices of examining oneself, one's thoughts, and conduct; self-examination.
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — philosophical reflection as ethical practice
+
+### Regulation / Régulation
+Rules, norms, and mechanisms governing conduct, knowledge, and discourse.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — regulation of discourse through exclusion and procedures
+
 ### Resistance / Counter-conduct
 Forms of resistance and escape from power relations.
 - [Surveiller et punir](/content/surveiller_et_punir.md) — prison rebellions and resistance
 
-## P (continued)
-
-### Psychology & Psyche
-Study of mind, personality, and mental processes; medicalization of the psyche.
-- [Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — psychology and social conditions
-
 ## S
+
+### Self-care / Souci de soi
+Ethical practices of attending to and caring for one's own existence and self.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — care of the self in Greek ethics
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman self-care as comprehensive ethical practice
 
 ### Sexuality
 Historical production and regulation of sexuality; sexuality as object of knowledge and power.
-- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — genealogy of sexuality as power-knowledge
-- [Histoire de la sexualité Vol. 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ancient Greek sexual ethics
-- [Histoire de la sexualité Vol. 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — ancient Roman sexual ethics
+- [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — comprehensive genealogy
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — sexuality in Greek ethical frameworks
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — sexuality in Roman self-constitution
+
+### Stoicism
+Ancient Roman philosophical school emphasizing virtue and rational control.
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Stoic ethics and practices of self-care
 
 ### Subject / Subjectification
 How individuals become subjects through power relations and historical processes.
-- [Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — personality and subject formation
+- [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — subject formation through psychiatric normalization
 - [Surveiller et punir](/content/surveiller_et_punir.md) — subject formation through discipline
 - [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — sexual subject formation
-- [Histoire de la sexualité Vol. 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethical subject formation in Greece
-- [Histoire de la sexualité Vol. 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — self-constituting subjects in Rome
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — ethical subject formation in ancient society
+- [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman subject as reflective and self-transforming
 
 ## T
 
@@ -188,14 +249,13 @@ Classification systems as modes of organizing and making knowledge.
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — taxonomy as Classical epistemology
 - [Naissance de la clinique](/content/naissance_de_la_clinique.md) — medical taxonomy
 
-### Technologies of Self
-Techniques and practices through which individuals transform and govern themselves.
-- [Histoire de la sexualité Vol. 2](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — Greek technologies of pleasure and self
-- [Histoire de la sexualité Vol. 3](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Roman technologies of care of self
+### Temperance / Tempérance
+Moderation and self-control as ethical virtue, especially regarding bodily desires.
+- [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — temperance as Greek ethical virtue
 
-### Truth / Truthfulness & Regime of Truth
-Historical production of truth; regimes of truth and conditions of possibility for true statements.
-- [L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — procedures of exclusion and will to truth
+### Truth / Truthfulness
+Historical production of truth; regimes of truth.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — truth regimes and procedures controlling truth-claims
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — truth as historically contingent
 - [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — conditions of possibility for true statements
 

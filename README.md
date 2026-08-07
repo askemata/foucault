@@ -1,2 +1,0 @@
-# foucault
-Foucault's Bibliography

@@ -14,10 +14,16 @@
   --sidebar-current-bg: #fcfcfc;
   --sidebar-current-text: #404040;
   --sidebar-caption: #55a5d9;
+  /* painel que o RTD abre dentro da barra escura na secao ativa */
+  --sidebar-open-bg: #e3e3e3;
+  --sidebar-open-text: #808080;
+  --sidebar-open-border: #c9c9c9;
+  --sidebar-open-hover: #d6d6d6;
   --search-bg: #2b2828;
   --search-text: #e6e6e6;
   --search-border: #565252;
 
+  --page-bg: #edf0f2;
   --content-bg: #fcfcfc;
   --text: #404040;
   --heading: #404040;
@@ -66,10 +72,15 @@
   --sidebar-current-bg: #2b2f31;
   --sidebar-current-text: #ffffff;
   --sidebar-caption: #6cb6e6;
+  --sidebar-open-bg: #24282a;
+  --sidebar-open-text: #9aa0a3;
+  --sidebar-open-border: #3a3f42;
+  --sidebar-open-hover: #2e3336;
   --search-bg: #0d0f10;
   --search-text: #d6d9da;
   --search-border: #35393b;
 
+  --page-bg: #0f1112;
   --content-bg: #1a1c1d;
   --text: #c9ccce;
   --heading: #e6e8ea;
@@ -111,10 +122,15 @@
     --sidebar-current-bg: #2b2f31;
     --sidebar-current-text: #ffffff;
     --sidebar-caption: #6cb6e6;
+    --sidebar-open-bg: #24282a;
+    --sidebar-open-text: #9aa0a3;
+    --sidebar-open-border: #3a3f42;
+    --sidebar-open-hover: #2e3336;
     --search-bg: #0d0f10;
     --search-text: #d6d9da;
     --search-border: #35393b;
 
+    --page-bg: #0f1112;
     --content-bg: #1a1c1d;
     --text: #c9ccce;
     --heading: #e6e8ea;
@@ -156,9 +172,9 @@
   /* --- base ------------------------------------------------------------ */
   --base-font-family: var(--font-body);
   --base-font-size: 16px;
-  --base-line-height: 1.65;
+  --base-line-height: 1.5;
   --base-color: var(--text);
-  --base-background-color: var(--content-bg);
+  --base-background-color: var(--page-bg);
   --content-max-width: 800px;
 
   /* --- links ----------------------------------------------------------- */
@@ -170,18 +186,15 @@
   --heading-font-weight: 700;
   --heading-color: var(--heading);
   --heading-h1-font-family: var(--font-heading);
-  --heading-h1-font-size: 1.9rem;
+  --heading-h1-font-size: 175%;
   --heading-h1-color: var(--heading);
-  --heading-h1-border-color: var(--border);
-  --heading-h1-border-style: solid;
-  --heading-h1-border-width: 0 0 1px 0;
+  --heading-h1-border-width: 0;
   --heading-h2-font-family: var(--font-heading);
-  --heading-h2-font-size: 1.45rem;
+  --heading-h2-font-size: 150%;
   --heading-h2-color: var(--heading);
-  --heading-h2-border-color: var(--border);
-  --heading-h2-border-style: solid;
-  --heading-h2-border-width: 0 0 1px 0;
-  --heading-h3-font-size: 1.2rem;
+  --heading-h2-border-width: 0;
+  --heading-h3-font-size: 125%;
+  --heading-h4-font-size: 115%;
 
   /* --- barra lateral --------------------------------------------------- */
   --sidebar-background: var(--sidebar-bg);
@@ -204,7 +217,7 @@
   --sidebar-nav-pagelink-background--active: var(--sidebar-current-bg);
   --sidebar-nav-pagelink-background--loaded: var(--sidebar-current-bg);
   --sidebar-nav-link-font-weight--active: 700;
-  --sidebar-nav-link-padding: 0.5rem 1.25rem;
+  --sidebar-nav-link-padding: 0.4045em 1.618em;
   --sidebar-nav-link-margin: 0;
   --sidebar-nav-link-border-width: 0;
   --sidebar-nav-link-border-width--active: 0;
@@ -237,6 +250,7 @@
   --code-inline-color: var(--code-text);
   --code-inline-background: var(--code-bg);
   --code-inline-border-radius: 3px;
+  --code-inline-white-space: normal;
   --code-theme-background: var(--pre-bg);
   --code-theme-text: var(--pre-text);
   --code-block-border-radius: 0;
@@ -255,7 +269,7 @@
   /* --- tabelas --------------------------------------------------------- */
   --table-cell-border-color: var(--border);
   --table-cell-padding: 0.55rem 0.8rem;
-  --table-head-border-color: var(--table-head-border);
+  --table-head-border-color: var(--border);
   --table-head-border-width: 0 0 2px 0;
   --table-head-font-weight: 700;
   --table-row-odd-background: var(--table-stripe);
@@ -301,15 +315,37 @@
 /* separador entre as seções de primeiro nível */
 .sidebar-nav > ul > li > a { border-bottom: 1px solid rgba(255, 255, 255, 0.06); }
 
-/* os anos e as letras, gerados pelo subMaxLevel.
-   O Docsify monta esse submenu como <ul class="app-sub-sidebar"> com links
-   .section-link; o recuo precisa ser declarado aqui porque o
-   --sidebar-nav-indent do themeable não alcança este nível. */
-.sidebar-nav .app-sub-sidebar { background: rgba(0, 0, 0, 0.18); }
+/* A assinatura visual do RTD: a seção ativa vira um painel claro dentro da
+   barra escura. O link da seção fica branco com texto escuro, e os subitens
+   (anos ou letras) ficam no painel, recuados, em cinza médio.
+   No RTD isso é .wy-menu-vertical li.current; aqui o Docsify marca li.active
+   e monta o submenu como <ul class="app-sub-sidebar">. */
+.sidebar-nav li.active { background: var(--sidebar-open-bg); }
+
+.sidebar-nav > ul > li.active > a {
+  border-top: 1px solid var(--sidebar-open-border);
+  border-bottom: 1px solid var(--sidebar-open-border);
+}
 
 .sidebar-nav .app-sub-sidebar li > a.section-link[href*="?id="] {
-  padding-left: 2.4rem;
-  font-size: 0.88rem;
+  padding: 0.4045em 1.618em 0.4045em 2.427em;
+  font-size: 90%;
+  color: var(--sidebar-open-text);
+  border-right: 1px solid var(--sidebar-open-border);
+}
+
+.sidebar-nav .app-sub-sidebar li > a.section-link[href*="?id="]:hover {
+  background: var(--sidebar-open-hover);
+  color: var(--sidebar-current-text);
+}
+
+/* a coluna de conteúdo é branca sobre o fundo cinza da página, como no RTD */
+.markdown-section {
+  background: var(--content-bg);
+  padding: 1.618em 3.236em;
+  /* sem isto a coluna branca termina no fim do texto e sobra o cinza da
+     pagina embaixo, em paginas curtas */
+  min-height: 100vh;
 }
 
 /* --- admonições no estilo Sphinx ---------------------------------------
@@ -320,24 +356,24 @@
    Tipos: note, seealso, tip, hint, important, warning, caution, danger, error.
    ----------------------------------------------------------------------- */
 .markdown-section .admonition {
-  margin: 0 0 1.3rem;
-  padding: 0;
+  padding: 12px;
+  margin: 0 0 24px;
+  line-height: 24px;
   border: none;
+  border-radius: 0;
   background: var(--note-bg);
   color: var(--admonition-text);
-  overflow: hidden;
 }
 
-.markdown-section .admonition > * { padding-left: 0.9rem; padding-right: 0.9rem; }
-.markdown-section .admonition > :not(.admonition-title):first-child { padding-top: 0.7rem; }
-.markdown-section .admonition > :last-child { padding-bottom: 0.7rem; margin-bottom: 0; }
+/* o corpo da caixa costuma ser texto solto, sem elemento proprio; sem o
+   :not() abaixo o titulo vira o :last-child e perde a margem inferior */
+.markdown-section .admonition > :last-child:not(.admonition-title) { margin-bottom: 0; }
 
 .markdown-section .admonition-title {
-  margin: 0;
-  padding: 0.35rem 0.9rem;
-  font-family: var(--font-heading);
+  display: block;
+  margin: -12px -12px 12px;
+  padding: 6px 12px;
   font-weight: 700;
-  font-size: 0.95rem;
   color: var(--admonition-title-text);
   background: var(--note-title);
 }

@@ -29,10 +29,27 @@ Estado conhecido do acervo (confira, pode ter mudado):
 ## 2. Pesquisar
 
 Faça pesquisa real sobre cada texto antes de escrever — não escreva de memória.
-Confirme editora, ano, paginação e tradução. Cada ficha precisa de uma URL
-verificável (WorldCat, editora, DOI ou repositório institucional). Se não
-conseguir confirmar um dado, **deixe-o de fora e me diga qual é a incerteza**,
-em vez de preencher por suposição.
+Confirme editora, ano, paginação e tradução. Se não conseguir confirmar um dado,
+**deixe-o de fora e me diga qual é a incerteza**, em vez de preencher por
+suposição.
+
+### Linkar tudo o que for citado
+
+Toda obra, artigo, revista ou autor mencionado deve levar a algum lugar.
+
+- **Já tem ficha no site?** Link interno:
+  `[Histoire de la folie](/content/histoire_de_la_folie.md)`. Vale dentro do
+  resumo, não só nos índices — é o que conecta a bibliografia.
+- **Não tem ficha?** Link externo, nesta ordem de preferência: DOI → página da
+  publicação original (editora, revista) → repositório institucional ou arquivo
+  aberto → WorldCat.
+- Prefira a **página de base** da obra ao link direto de PDF: o PDF muda de
+  endereço, o registro permanece.
+- O `url:` do frontmatter segue a mesma ordem — é ele que alimenta os metadados
+  de citação e a exportação para o Zotero.
+
+**Nunca invente URL.** Link não verificado é pior que link ausente, porque
+parece confiável. Sem fonte que dê para conferir, deixe sem link e me avise.
 
 ## 3. Criar os arquivos
 

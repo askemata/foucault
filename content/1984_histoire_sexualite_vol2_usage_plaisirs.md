@@ -16,7 +16,7 @@ FOUCAULT, Michel. *The History of Sexuality, Volume 2: The Use of Pleasure*. Tra
 
 ## Resumo
 
-*L'Usage des plaisirs* marca uma virada significativa na pesquisa foucaultiana sobre sexualidade, deslocando o foco do presente para a antiguidade clássica grega e romana. Em vez de examinar a sexualidade como objeto de poder-saber científico (como em *La Volonté de savoir*), Foucault investiga como os gregos da antiguidade problematizavam e regulavam sua relação com os prazeres do corpo. O volume mapeia uma ética da sexualidade anterior à moralidade cristã e ao discurso médico moderno.
+*L'Usage des plaisirs* marca uma virada significativa na pesquisa foucaultiana sobre sexualidade, deslocando o foco do presente para a antiguidade clássica grega e romana. Em vez de examinar a sexualidade como objeto de poder-saber científico (como em [*La Volonté de savoir*](/content/histoire_sexualite_vol1.md)), Foucault investiga como os gregos da antiguidade problematizavam e regulavam sua relação com os prazeres do corpo. O volume mapeia uma ética da sexualidade anterior à moralidade cristã e ao discurso médico moderno.
 
 Foucault demonstra que os gregos não tinham uma categoria unificada de "sexualidade" como modernos entendemos. Em vez disso, o prazer sexual era integrado em uma ética mais ampla da existência que enfatizava a temperança, o autodomínio e o aperfeiçoamento moral. Ele examina como a relação com rapazes adolescentes, com esposas, e com prostitutas eram diferentemente problematizadas e reguladas através de convenções sociais e práticas de si. A sexualidade grega não era "liberada" ou "reprimida", mas era governada através de uma tecnologia do eu que buscava formar sujeitos capazes de governar a si mesmos com moderação.
 

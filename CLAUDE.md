@@ -62,6 +62,32 @@ ficam na língua original.
   #cuidado-de-si). Reutilizar as existentes sempre que possível.
 - Sempre incluir palavras-chave temáticas relevantes além das obrigatórias.
 
+## Sempre linkar o que for citado
+Toda obra, artigo, revista ou autor mencionado deve levar a algum lugar. Vale
+para as fichas, para as páginas-índice e para o índice de palavras-chave.
+
+**Se a obra citada já tem ficha no site**, o link é interno:
+`[Histoire de la folie](/content/histoire_de_la_folie.md)`. Isso é o que
+transforma a bibliografia numa rede em vez de uma lista.
+
+**Se não tem ficha**, o link é externo, e vale esta ordem de preferência:
+
+1. DOI (`https://doi.org/...`) — o mais estável que existe
+2. Página da publicação original: editora, revista, coleção
+3. Repositório institucional ou arquivo de acesso aberto
+4. WorldCat, como último recurso de identificação
+
+Prefira sempre a **página de base da obra** (a landing page da editora, o
+registro do periódico) ao link direto de um PDF: PDFs mudam de endereço e sites
+os movem de lugar, enquanto o registro tende a permanecer.
+
+O campo `url:` do frontmatter segue a mesma ordem — é ele que alimenta os
+metadados de citação e a exportação para o Zotero.
+
+**Nunca inventar URL.** Link não verificado é pior que link ausente, porque
+parece confiável. Se não achou uma fonte que possa conferir, deixe sem link e
+me avise — mesma regra dos dados bibliográficos que não se consegue confirmar.
+
 ## Navegação: a barra lateral não cresce
 `_sidebar.md` tem cinco itens fixos e **não deve receber links de obras**. O
 Docsify desdobra sozinho os subitens da página ativa, via `subMaxLevel: 2` no

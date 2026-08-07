@@ -57,6 +57,8 @@ url: "https://..."
 
 Ao acrescentar uma ficha, é preciso atualizar também a página-índice correspondente (`primary.md` ou `secondary.md`) e o [índice de palavras-chave](/keywords.md). A barra lateral não precisa ser tocada: ela se desdobra sozinha a partir dos cabeçalhos de ano dessas páginas.
 
+O passo a passo completo, da criação do arquivo até a publicação, está em [Como atualizar o site](/COMO_ATUALIZAR.md).
+
 ## Recursos de formatação disponíveis
 
 Além do Markdown comum, o tema oferece as caixas de destaque do Sphinx. Escreva

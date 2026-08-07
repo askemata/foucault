@@ -32,16 +32,24 @@ Works analyzing power relations over life, bodies, and populations.
 
 ## C
 
-### Confinement
-Historical analysis of institutions isolating populations (asylums, prisons, hospitals).
-- [Histoire de la folie](/content/histoire_de_la_folie.md) — the Great Confinement and madness
-
 ### Classical Age / Classical Epistémé
 The 17th-18th century epistemic regime of representation and order.
 - [Histoire de la folie](/content/histoire_de_la_folie.md) — Classical treatment of madness as pathology
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — Classical epistémé as historical configuration
 
+### Cogito / Descartes
+The disputed reading of the First Meditation and the place of madness in the cogito.
+- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — hyperbolic doubt as including, not excluding, madness
+
+### Confinement
+Historical analysis of institutions isolating populations (asylums, prisons, hospitals).
+- [Histoire de la folie](/content/histoire_de_la_folie.md) — the Great Confinement and madness
+
 ## D
+
+### Deconstruction
+The Derridean critique of Foucault and the debate it opened over text, archive, and practice.
+- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — founding text of the Derrida–Foucault polemic
 
 ### Discourse
 Language, speech, and communication as sites of power and knowledge production.
@@ -66,6 +74,7 @@ Historical configuration of knowledge organizing what can be known and how.
 ### Exclusion
 Mechanisms by which society limits, silences, or marginalizes certain forms of speech and knowledge.
 - [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — procedures of exclusion governing discourse
+- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — the *partage* dividing reason from unreason
 
 ## F
 
@@ -116,12 +125,6 @@ Analysis of how institutions shape subjects and regulate behavior.
 - [Surveiller et punir](/content/surveiller_et_punir.md) — prison as paradigmatic institution
 - [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — institutions as regulatory mechanisms for discourse
 
-## L
-
-### Language / Langage
-Systems of signs, communication, and meaning-making as modes of knowledge and power.
-- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — language regulated through power
-
 ## K
 
 ### Knowledge & Power
@@ -132,6 +135,18 @@ Foucault's central insight linking knowledge production to power relations.
 - [Histoire de la sexualité Vol. 1](/content/histoire_sexualite_vol1.md) — power-knowledge formations
 - [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — truth regimes and power effects
 
+## L
+
+### Language / Langage
+Systems of signs, communication, and meaning-making as modes of knowledge and power.
+- [1971 - L'Ordre du Discours](/content/1971_l_ordre_du_discours.md) — language regulated through power
+- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — whether reason's language can speak of unreason
+
+### Literature / Littérature
+Readings of Foucault from the side of literature, writing, and the limits of saying.
+- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — moves the reception from psychiatry to literary criticism
+- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — madness as absence of œuvre
+
 ## M
 
 ### Madness / Mental Illness
@@ -139,11 +154,15 @@ Historical analysis of madness as category and medical object.
 - [1954 - Maladie mentale et personnalité](/content/1954_maladie_mentale_et_personnalite.md) — mental illness as social and psychological phenomenon
 - [Histoire de la folie](/content/histoire_de_la_folie.md) — genealogy of psychiatric categories
 - [Naissance de la clinique](/content/naissance_de_la_clinique.md) — pathology and medical gaze
+- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — madness as a fact of civilization, not a natural object
+- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — unreason as something available only as absence
+- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — whether the cogito excludes madness
 
 ### Method / Methodology
 Works on Foucault's analytical approaches (archaeology, genealogy, etc.).
 - [L'Archéologie du savoir](/content/l_archeologie_du_savoir.md) — archaeological method explicit
 - [Les Mots et les Choses](/content/les_mots_et_les_choses.md) — archaeological method in practice
+- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — an archaeology of silence charged with being aporetic
 
 ### Morality / Moralité
 Systems of ethical rules and norms governing conduct and conscience.
@@ -195,6 +214,18 @@ Medical discipline studying madness and mental illness.
 
 ## R
 
+### Reason / Unreason
+The dividing line by which reason constitutes itself against what it refuses to recognize.
+- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — the division itself as the object of history
+- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — forgetting as the condition of reason
+- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — reason's language as inescapable
+
+### Reception & Debate
+The critical fortune of Foucault's work: reviews, polemics, and replies.
+- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — the first major review of *Histoire de la folie*
+- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — the objection later radicalized by Derrida
+- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — opens the polemic Foucault answers in 1972
+
 ### Renaissance
 16th-century epistemic regime structured by resemblance.
 - [Histoire de la folie](/content/histoire_de_la_folie.md) — Renaissance relationship to madness
@@ -230,9 +261,18 @@ Historical production and regulation of sexuality; sexuality as object of knowle
 - [1984 - Histoire de la sexualité Vol. 2: L'Usage des plaisirs](/content/1984_histoire_sexualite_vol2_usage_plaisirs.md) — sexuality in Greek ethical frameworks
 - [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — sexuality in Roman self-constitution
 
+### Silence / Absence of Work
+The impossibility of speaking for what a culture has silenced; madness as absence of œuvre.
+- [1961 - Maurice Blanchot: L'oubli, la déraison](/content/1961_blanchot_l_oubli_la_deraison.md) — silence as a positive mode of relation
+- [1963 - Jacques Derrida: Cogito et histoire de la folie](/content/1963_derrida_cogito_et_histoire_de_la_folie.md) — an archaeology of silence as aporetic project
+
 ### Stoicism
 Ancient Roman philosophical school emphasizing virtue and rational control.
 - [1984 - Histoire de la sexualité Vol. 3: Le Souci de soi](/content/1984_histoire_sexualite_vol3_souci_soi.md) — Stoic ethics and practices of self-care
+
+### Structuralism
+Foucault read through the structuralist frame, and the limits of that reading.
+- [1961 - Roland Barthes: De part et d'autre](/content/1961_barthes_de_part_et_d_autre.md) — madness as function and relation rather than substance
 
 ### Subject / Subjectification
 How individuals become subjects through power relations and historical processes.
